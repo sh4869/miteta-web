@@ -1,5 +1,60 @@
 [
   {
+    "url": "https://github.com/schacon/ruby-git",
+    "title": "GitHub - schacon/ruby-git: Ruby/Git is a Ruby library that can be used to create, read and manipulate Git repositories by wrapping system calls to the git binary.",
+    "tweet_url": "https://twitter.com/sh4869sh/status/797818379373379585"
+  },
+  {
+    "url": "https://gist.github.com/sh4869/3423d95b8bdffc2c53b44abab1c20bb3",
+    "title": "Twitterのテキストから元のURL達を取り出す． · GitHub",
+    "tweet_url": "https://twitter.com/sh4869sh/status/797758866205216768"
+  },
+  {
+    "url": "http://blog.sorah.jp/2011/01/03/ruby-url-expand-is-strange",
+    "title": "RubyでURL短縮展開のコードがきもいです... - blog.sorah",
+    "tweet_url": "https://twitter.com/sh4869sh/status/797752463138795520"
+  },
+  {
+    "url": "http://stackoverflow.com/questions/5786779/using-nethttp-get-for-an-https-url",
+    "title": "ruby - Using Net::HTTP.get for an https url - Stack Overflow",
+    "tweet_url": "https://twitter.com/sh4869sh/status/797743018795147264"
+  },
+  {
+    "url": "http://qiita.com/vvakame/items/305749d3d6dc6bf877c6",
+    "title": "TypeScript 2.1.1 変更点 - Qiita",
+    "tweet_url": "https://twitter.com/sh4869sh/status/797705366842667009"
+  },
+  {
+    "url": "https://github.com/esp8266/Arduino/issues/1032",
+    "title": "WPA2-enterprise + PEAP · Issue #1032 · esp8266/Arduino · GitHub",
+    "tweet_url": "https://twitter.com/sh4869sh/status/797374702285037569"
+  },
+  {
+    "url": "https://github.com/github/game-off-2016",
+    "title": "GitHub - github/game-off-2016: GitHub&#39;s month-long game jam November 2016",
+    "tweet_url": "https://twitter.com/sh4869sh/status/797046025261154305"
+  },
+  {
+    "url": "https://cloud.google.com/appengine/docs/go/quickstart",
+    "title": "",
+    "tweet_url": "https://twitter.com/sh4869sh/status/796922211613347840"
+  },
+  {
+    "url": "https://cloud.google.com/appengine/docs/go/tools/uploadinganapp",
+    "title": "",
+    "tweet_url": "https://twitter.com/sh4869sh/status/796919969137115136"
+  },
+  {
+    "url": "http://b.hatena.ne.jp/sh4869/bookmark",
+    "title": "",
+    "tweet_url": "https://twitter.com/sh4869sh/status/796904382834962432"
+  },
+  {
+    "url": "https://github.com/sh4869",
+    "title": "sh4869 (Nobuhiro Kasai) · GitHub",
+    "tweet_url": "https://twitter.com/sh4869sh/status/796767734033883136"
+  },
+  {
     "tweet_url": "https://twitter.com/statues/797705366842667009",
     "title": "TypeScript 2.1.1 変更点 - Qiita",
     "url": "http://qiita.com/vvakame/items/305749d3d6dc6bf877c6"
