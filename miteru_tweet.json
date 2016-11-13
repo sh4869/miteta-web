@@ -1,1 +1,2067 @@
-"[{\"url\":\"http://qiita.com/vvakame/items/305749d3d6dc6bf877c6\",\"title\":\"TypeScript 2.1.1 変更点 - Qiita\",\"tweet_url\":\"https://twitter.com/statues/797705366842667009\"},{\"url\":\"https://github.com/esp8266/Arduino/issues/1032\",\"title\":\"WPA2-enterprise + PEAP · Issue #1032 · esp8266/Arduino · GitHub\",\"tweet_url\":\"https://twitter.com/statues/797374702285037569\"},{\"url\":\"https://github.com/github/game-off-2016\",\"title\":\"GitHub - github/game-off-2016: GitHub&#39;s month-long game jam November 2016\",\"tweet_url\":\"https://twitter.com/statues/797046025261154305\"},{\"url\":\"https://cloud.google.com/appengine/docs/go/quickstart\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/796922211613347840\"},{\"url\":\"https://cloud.google.com/appengine/docs/go/tools/uploadinganapp\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/796919969137115136\"},{\"url\":\"http://b.hatena.ne.jp/sh4869/bookmark\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/796904382834962432\"},{\"url\":\"https://github.com/sh4869\",\"title\":\"sh4869 (Nobuhiro Kasai) · GitHub\",\"tweet_url\":\"https://twitter.com/statues/796767734033883136\"},{\"url\":\"http://cpprefjp.github.io/lang/cpp14/binary_literals.html\",\"title\":\"2進数リテラル - cpprefjp C++日本語リファレンス\",\"tweet_url\":\"https://twitter.com/statues/796204611568685057\"},{\"url\":\"http://chirimenmonster.github.io/2016/05/09/msys2-path.html\",\"title\":\"MSYS2 で PATH が引き継がれない\",\"tweet_url\":\"https://twitter.com/statues/796030863251161089\"},{\"url\":\"http://qiita.com/shyouhei/items/5855731bc6b901922641\",\"title\":\"ソースコードの無思慮なコピペを生むGithubというアーキテクチャについて - Qiita\",\"tweet_url\":\"https://twitter.com/statues/796019970467450880\"},{\"url\":\"https://jser.info/2016/11/08/sitespeed.io-4.0-webpack-2-beta-javascript/\",\"title\":\"2016-11-08のJS: sitespeed.io 4.0、webpack 2 beta入門、JavaScriptスタックチュートリアル - JSer.info\",\"tweet_url\":\"https://twitter.com/statues/795846708961779712\"},{\"url\":\"https://blog.mariusschulz.com/2016/10/31/typescript-2-0-read-only-properties\",\"title\":\"TypeScript 2.0: Read-Only Properties | Marius Schulz\",\"tweet_url\":\"https://twitter.com/statues/795846443764359168\"},{\"url\":\"http://qiita.com/wonder_zone/items/c0cb4033c2a599b3d662\",\"title\":\"UbuntuにRをインストール - Qiita\",\"tweet_url\":\"https://twitter.com/statues/795789773071740929\"},{\"url\":\"https://github.com/sass/dart-sass/blob/master/perf.md\",\"title\":\"dart-sass/perf.md at master · sass/dart-sass · GitHub\",\"tweet_url\":\"https://twitter.com/statues/795789430703341568\"},{\"url\":\"https://speakerdeck.com/dkkoma/ecnavi-at-phpcon2016\",\"title\":\"老舗メディアが改善に取り組んでいる話 / ecnavi @phpcon2016 // Speaker Deck\",\"tweet_url\":\"https://twitter.com/statues/795613541612912640\"},{\"url\":\"http://mattn.kaoriya.net/software/lang/c/20140630203144.htm\",\"title\":\"Big Sky :: MSVC の怖い話\",\"tweet_url\":\"https://twitter.com/statues/794728488481615876\"},{\"url\":\"https://app.codegrid.net/entry/vertical-script-1\",\"title\":\"ブラウザにおける縦書き最新事情 - 縦書き実装の今 | CodeGrid\",\"tweet_url\":\"https://twitter.com/statues/794539453112930304\"},{\"url\":\"https://msdn.microsoft.com/en-us/commandline/wsl/release_notes#build-14951\",\"title\":\"Bash on Ubuntu on Windows - Release Notes\",\"tweet_url\":\"https://twitter.com/statues/794502666168647681\"},{\"url\":\"https://github.com/naptha/tesseract.js\",\"title\":\"GitHub - naptha/tesseract.js: Pure Javascript OCR for 62 Languages 📖🎉🖥\",\"tweet_url\":\"https://twitter.com/statues/794443908583333888\"},{\"url\":\"https://api.dartlang.org/stable/1.10.1/dart-html/Gamepad-class.html\",\"title\":\"Gamepad class - dart:html library - Dart API\",\"tweet_url\":\"https://twitter.com/statues/794183825681039360\"},{\"url\":\"http://tech.gmo-media.jp/post/141458071484/react-perf-tuning\",\"title\":\"Reactを使ったプロダクトのパフォーマンスを改善した話 | GMOメディア エンジニアブログ\",\"tweet_url\":\"https://twitter.com/statues/793709955320733696\"},{\"url\":\"https://github.com/joeeames/WebpackFundamentalsCourse/issues/3\",\"title\":\"webpack -p outputs: ERROR in bundle.js from UglifyJs Unexpected token: name (login) [./login.es6:2,4] · Issue #3 · joeeames/WebpackFundamentalsCourse · GitHub\",\"tweet_url\":\"https://twitter.com/statues/793518921168986112\"},{\"url\":\"http://blog.aqutras.com/entry/2016/06/23/210000\",\"title\":\"Reactの再レンダリングをなるべく減らす - Aqutras Members&#39; Blog\",\"tweet_url\":\"https://twitter.com/statues/793390589408530432\"},{\"url\":\"https://mine.place/page/210095ad-21ce-48d5-94ac-02ff54533d39\",\"title\":\"VR元年に異議あり　　[世界VR史] | mine\",\"tweet_url\":\"https://twitter.com/statues/793315423315910656\"},{\"url\":\"https://github.com/github/hub\",\"title\":\"GitHub - github/hub: hub helps you win at git.\",\"tweet_url\":\"https://twitter.com/statues/793306959378198528\"},{\"url\":\"http://stackoverflow.com/questions/37300933/allow-typescript-compiler-to-call-setstate-on-only-one-react-state-property\",\"title\":\"reactjs - allow typescript compiler to call setState on only one react state property - Stack Overflow\",\"tweet_url\":\"https://twitter.com/statues/792613695339634688\"},{\"url\":\"http://qiita.com/nanocloudx/items/079685599273f3805f77\",\"title\":\"JavaScriptで正規表現を複数回実行する際の注意点 - Qiita\",\"tweet_url\":\"https://twitter.com/statues/792566147367350272\"},{\"url\":\"http://jp.techcrunch.com/2016/10/29/20161028let-your-vines-live-on-forever-with-this-giphy-conversion-tool/\",\"title\":\"ご自分のVinesの死を拒否したい人のためにGiphyがそれらをGIFに変換してくれる  |  TechCrunch Japan\",\"tweet_url\":\"https://twitter.com/statues/792184915068526592\"},{\"url\":\"http://www.rubular.com/\",\"title\":\"Rubular: a Ruby regular expression editor and tester\",\"tweet_url\":\"https://twitter.com/statues/791672021461590016\"},{\"url\":\"http://qiita.com/hotchpotch/items/93396926775251b97065\",\"title\":\"新しいマシンやスマフォで Slack の各種チームに入るのが面倒くさい！！！という時 - Qiita\",\"tweet_url\":\"https://twitter.com/statues/791263959609331713\"},{\"url\":\"http://sixhalf.hatenablog.com/entry/2016/02/29/233654\",\"title\":\"商業BLで潤滑剤として使用されているものを使うとマジで滑りやすくなるのか？ - 記録\",\"tweet_url\":\"https://twitter.com/statues/791258348611964929\"},{\"url\":\"https://facebook.github.io/react/docs/context.html\",\"title\":\"Context - React\",\"tweet_url\":\"https://twitter.com/statues/791159270033203200\"},{\"url\":\"http://qiita.com/SnowMonkey/items/795779913be692c12a0b\",\"title\":\"Google Maps APIのズームレベルまとめ - Qiita\",\"tweet_url\":\"https://twitter.com/statues/791073096782323712\"},{\"url\":\"http://qiita.com/Linda_pp/items/ff0feac7e34a65657b3c\",\"title\":\"TypeScript1.6 + React 書いてみてハマったポイントとか - Qiita\",\"tweet_url\":\"https://twitter.com/statues/791066230002110465\"},{\"url\":\"https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty\",\"title\":\"Object.defineProperty() - JavaScript | MDN\",\"tweet_url\":\"https://twitter.com/statues/790443765869649920\"},{\"url\":\"http://yutapon.hatenablog.com/entry/2014/05/20/102526\",\"title\":\" Object.defineProperty()について調べた - yutaponのブログ\",\"tweet_url\":\"https://twitter.com/statues/790442772129996801\"},{\"url\":\"http://getlife.hateblo.jp/entry/2016/10/24/045343\",\"title\":\"イケてる環境のWEB系の労働生産性がイケてないSIerのたった三割しかない件 - プロマネブログ\",\"tweet_url\":\"https://twitter.com/statues/790440815034105856\"},{\"url\":\"http://qiita.com/makky0620/items/e31edc90f22340d791ff\",\"title\":\"Bash on Ubuntu on Windows + XmingによるGUI - Qiita\",\"tweet_url\":\"https://twitter.com/statues/789736531279831041\"},{\"url\":\"https://www.balmuda.com/jp/pot/\",\"title\":\"概要 | BALMUDA The Pot | バルミューダ\",\"tweet_url\":\"https://twitter.com/statues/789403480238632960\"},{\"url\":\"https://w3c.github.io/webappsec-upgrade-insecure-requests/\",\"title\":\"Upgrade Insecure Requests\",\"tweet_url\":\"https://twitter.com/statues/789384480003805184\"},{\"url\":\"http://headlines.yahoo.co.jp/hl?a=20161021-00000061-mai-soci\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/789337431287877632\"},{\"url\":\"http://business.newsln.jp/news/201610201826390000.html\",\"title\":\"EU: IPアドレスも個人情報とする新判断・承諾なしでのアクセスログの保管は違法に - BusinessNewsline\",\"tweet_url\":\"https://twitter.com/statues/789330237620232193\"},{\"url\":\"https://gyazo.com/aa5bb4c954469f09e35b91d4e5ca766c\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/788780126100033536\"},{\"url\":\"http://mohammedari.blogspot.jp/2013/11/stm32.html\",\"title\":\"背筋トレーニング日記: STM32で割り込みを使ったシリアル通信をする\",\"tweet_url\":\"https://twitter.com/statues/788674353961381888\"},{\"url\":\"https://speakerdeck.com/tacamy/modanri-ben-yu-huontozhi-ding\",\"title\":\"モダン日本語フォント指定 // Speaker Deck\",\"tweet_url\":\"https://twitter.com/statues/788224153061122048\"},{\"url\":\"http://news.dartlang.org/2016/10/good-bye-symlinks.html\",\"title\":\"Dart News &amp; Updates: Good-bye symlinks\",\"tweet_url\":\"https://twitter.com/statues/788038882319138816\"},{\"url\":\"http://www.material-ui.com/#/components/paper\",\"title\":\"Material-UI\",\"tweet_url\":\"https://twitter.com/statues/787910870395342852\"},{\"url\":\"http://www.c-lang.org/detail/undefined_behavior.html\",\"title\":\"未定義の動作\",\"tweet_url\":\"https://twitter.com/statues/787878123681394689\"},{\"url\":\"http://www.nerimadors.or.jp/~kando/kuno_zemi/ModernCompilerImplementation/06_2_Tiger_Frame/06_Activation_Records.html\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/787876873564856320\"},{\"url\":\"https://en.oxforddictionaries.com/definition/virtual\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/787512262927855617\"},{\"url\":\"https://github.com/dart-lang/js_facade_gen\",\"title\":\"GitHub - dart-lang/js_facade_gen: Generates package:js Javascript interop facades for arbitrary TypeScript libraries\",\"tweet_url\":\"https://twitter.com/statues/787181460025331712\"},{\"url\":\"http://stackoverflow.com/questions/2409819/c-constructor-initializer-for-arrays\",\"title\":\"C++: constructor initializer for arrays - Stack Overflow\",\"tweet_url\":\"https://twitter.com/statues/786878896104886273\"},{\"url\":\"http://qiita.com/takeharu/items/9935ce476a17d6258e27\",\"title\":\"JavaScriptの「this」は「4種類」？？ - Qiita\",\"tweet_url\":\"https://twitter.com/statues/786860341040861184\"},{\"url\":\"https://github.com/yarnpkg/yarn/issues/673\",\"title\":\"Shell command conflict with Hadoop Yarn · Issue #673 · yarnpkg/yarn · GitHub\",\"tweet_url\":\"https://twitter.com/statues/786794202579345408\"},{\"url\":\"http://www2.ipcku.kansai-u.ac.jp/~saitoh/parts/lectures/staticelectricity.pdf\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/786785215511351296\"},{\"url\":\"https://my.st.com/public/STe2ecommunities/mcu/Lists/cortex_mx_stm32/Flat.aspx?RootFolder=https%3a%2f%2fmy%2est%2ecom%2fpublic%2fSTe2ecommunities%2fmcu%2fLists%2fcortex%5fmx%5fstm32%2fSystick%20Delay%20functions&FolderCTID=0x01200200770978C69A1141439FE559EB459D7580009C4E14902C3CDE46A77F0FFD06506F5B&currentviews=2235\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/786154901092995072\"},{\"url\":\"https://github.com/reactjs/react-router-tutorial\",\"title\":\"GitHub - reactjs/react-router-tutorial\",\"tweet_url\":\"https://twitter.com/statues/786084355278041088\"},{\"url\":\"http://qiita.com/mizchi/items/1002fde0de10e7c54fb2\",\"title\":\"Yarnファーストインプレッション - Qiita\",\"tweet_url\":\"https://twitter.com/statues/786041135797968897\"},{\"url\":\"http://qiita.com/fantm21/items/9e4512d3af605dae1734\",\"title\":\"日本語対応のLaTexで自動字下げされない件(＋字下げしない方法) - Qiita\",\"tweet_url\":\"https://twitter.com/statues/786013811975139328\"},{\"url\":\"http://yosuke-furukawa.hatenablog.com/entry/2016/10/12/091349\",\"title\":\"Node学園祭2016を開催します。 #nodefest - from scratch\",\"tweet_url\":\"https://twitter.com/statues/786012508444164096\"},{\"url\":\"http://news.dartlang.org/2016/10/whats-your-favorite-dart-feature.html\",\"title\":\"Dart News &amp; Updates: What&#8217;s your favorite Dart feature?\",\"tweet_url\":\"https://twitter.com/statues/785935839654129664\"},{\"url\":\"https://github.com/yarnpkg/yarn\",\"title\":\"GitHub - yarnpkg/yarn: 📦🐈 Fast, reliable, and secure dependency management.\",\"tweet_url\":\"https://twitter.com/statues/785915295583961088\"},{\"url\":\"https://github.com/dbankier/vscode-gist\",\"title\":\"GitHub - dbankier/vscode-gist: vscode extension for quick gists\",\"tweet_url\":\"https://twitter.com/statues/784962780117860352\"},{\"url\":\"http://mattn.kaoriya.net/software/bow/20160824234928.htm\",\"title\":\"Big Sky :: Bash on Ubuntu on Windows の最高の端末環境を教えてやるからちょっと来い。\",\"tweet_url\":\"https://twitter.com/statues/784530521669992449\"},{\"url\":\"http://electronics.stackexchange.com/questions/74805/stm32f2xx-could-not-work-with-maximum-frequency\",\"title\":\"clock - STM32f2xx could not work with maximum frequency - Electrical Engineering Stack Exchange\",\"tweet_url\":\"https://twitter.com/statues/784424178820591616\"},{\"url\":\"http://palantir.github.io/tslint/rules/no-console/\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/784322764622602240\"},{\"url\":\"https://note.mu/sub/n/na2192a9c5f2e\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/784268072748146688\"},{\"url\":\"https://github.com/dart-lang/sdk/milestone/44\",\"title\":\"1.50 Milestone · GitHub\",\"tweet_url\":\"https://twitter.com/statues/784255956678905859\"},{\"url\":\"https://msdn.microsoft.com/en-us/library/chh3fb0k.aspx\",\"title\":\"optimize\",\"tweet_url\":\"https://twitter.com/statues/782870046771023872\"},{\"url\":\"http://doc.ironwoodlabs.com/arm-arm-none-eabi/html/gcc/Optimize-Options.html\",\"title\":\"Optimize Options - Using the GNU Compiler Collection (GCC)\",\"tweet_url\":\"https://twitter.com/statues/781704025540407296\"},{\"url\":\"https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Array/filter\",\"title\":\"Array.prototype.filter() - JavaScript | MDN\",\"tweet_url\":\"https://twitter.com/statues/781689137950695424\"},{\"url\":\"http://azu.github.io/slide/react-meetup/flux.html\",\"title\":\"10分で実装するFlux\",\"tweet_url\":\"https://twitter.com/statues/781053661807992832\"},{\"url\":\"https://github.com/DefinitelyTyped/DefinitelyTyped/commit/4f7524fc65c0d1389af81a83a95dfe1ea59ad5e9\",\"title\":\"Rename files and folders to match their module definitions · DefinitelyTyped/DefinitelyTyped@4f7524f · GitHub\",\"tweet_url\":\"https://twitter.com/statues/780300097561034752\"},{\"url\":\"https://github.com/FlorianKoerner/nodegit-typescript-definition\",\"title\":\"GitHub - FlorianKoerner/nodegit-typescript-definition: TypeScript Definition for nodegit\",\"tweet_url\":\"https://twitter.com/statues/780273073647869952\"},{\"url\":\"https://www.amazon.co.jp/NOIR-%E3%83%8E%E3%83%AF%E3%83%BC%E3%83%AB-%E3%82%B3%E3%83%B3%E3%83%97%E3%83%AA%E3%83%BC%E3%83%88-DVD-BOX-%E5%85%A826%E8%A9%B1/dp/B00361UN3Y/ref=sr_1_12?ie=UTF8&qid=1474771633&sr=8-12&keywords=%E3%83%8E%E3%83%AF%E3%83%BC%E3%83%AB\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/779874994230743040\"},{\"url\":\"http://66.media.tumblr.com/055c6dd86a7b3370e26cfa2add5b05c8/tumblr_o18zalwtKI1sxlmtzo1_400.gif\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/779874362945970177\"},{\"url\":\"https://cpplover.blogspot.jp/2016/09/blog-post.html\",\"title\":\"本の虫: レールに沿わない人生を送っていたら&#12289;未だにレールに乗れていない人間のお話\",\"tweet_url\":\"https://twitter.com/statues/779872496988278784\"},{\"url\":\"https://github.com/c9/node-bitbucket\",\"title\":\"GitHub - c9/node-bitbucket: node.js library to access the Bitbucket API\",\"tweet_url\":\"https://twitter.com/statues/779696572288249857\"},{\"url\":\"http://sciencecommons.jp/cc0/about\",\"title\":\"CC0について ― “いかなる権利も保有しない” &laquo;  Science Commons – サイエンス・コモンズ翻訳プロジェクト\",\"tweet_url\":\"https://twitter.com/statues/779692667038896129\"},{\"url\":\"http://qiita.com/shibacow/items/1ac6f65100252b78a707\",\"title\":\"Nianticの求人から推測する『Pokémon GO(ポケモンGO)』のサーバ構成 - Qiita\",\"tweet_url\":\"https://twitter.com/statues/779246706361720832\"},{\"url\":\"https://www.reddit.com/r/FRC/comments/53zqkj/first_right_now_probably/\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/779176709706829824\"},{\"url\":\"https://github.com/Microsoft/TypeScript/wiki/What's-new-in-TypeScript#typescript-20\",\"title\":\"What&#39;s new in TypeScript · Microsoft/TypeScript Wiki · GitHub\",\"tweet_url\":\"https://twitter.com/statues/779138182226976768\"},{\"url\":\"https://github.com/Dart-Code/Dart-Code\",\"title\":\"GitHub - Dart-Code/Dart-Code: Dart support for Visual Studio Code.\",\"tweet_url\":\"https://twitter.com/statues/778994727643295744\"},{\"url\":\"https://github.com/andlabs/libui\",\"title\":\"GitHub - andlabs/libui: Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports.\",\"tweet_url\":\"https://twitter.com/statues/778937213488812032\"},{\"url\":\"http://texblog.org/2012/07/03/fancy-latex-chapter-styles/\",\"title\":\"Fancy LaTeX chapter styles &#8211; texblog\",\"tweet_url\":\"https://twitter.com/statues/777505462186934273\"},{\"url\":\"https://amakan.net/products/166981\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/777489605545254912\"},{\"url\":\"https://code.visualstudio.com/updates#vscode\",\"title\":\"Visual Studio Code October 2016 1.7\",\"tweet_url\":\"https://twitter.com/statues/777159516152483840\"},{\"url\":\"https://blogs.office.com/2016/09/13/introducing-outlooks-new-and-improved-calendar-on-ios-and-android/\",\"title\":\"Introducing Outlook&#039;s new and improved calendar on iOS and Android - Office Blogs\",\"tweet_url\":\"https://twitter.com/statues/776022682311663616\"},{\"url\":\"http://www.theverge.com/2016/9/13/12890050/adblock-plus-now-sells-ads\",\"title\":\"Adblock Plus now sells ads - The Verge\",\"tweet_url\":\"https://twitter.com/statues/775697124419776513\"},{\"url\":\"https://wirelesswire.jp/2016/09/56424/\",\"title\":\"  IoTとはデバイスではなくエコシステムの話　 - WirelessWire News（ワイヤレスワイヤーニュース）\",\"tweet_url\":\"https://twitter.com/statues/775147481692708866\"},{\"url\":\"http://embdev.net/topic/191474\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/775089349411037184\"},{\"url\":\"http://cflat-inc.hatenablog.com/entry/2014/03/04/214608\",\"title\":\"これでほぼ完璧！　C++シングルトン基底クラスの決定版！ - 株式会社CFlatの明後日スタイルのブログ\",\"tweet_url\":\"https://twitter.com/statues/775017112137928710\"},{\"url\":\"http://qiita.com/kikuuuty/items/fcf5f7df2f0493c437dc\",\"title\":\"シングルトンのベターな実装方法 - Qiita\",\"tweet_url\":\"https://twitter.com/statues/775016529498746881\"},{\"url\":\"https://github.com/github/hubot/pulse/monthly\",\"title\":\"Pulse · github/hubot · GitHub\",\"tweet_url\":\"https://twitter.com/statues/774847553724493824\"},{\"url\":\"http://stackoverflow.com/questions/4997493/set-opacity-of-background-image-without-affecting-child-elements\",\"title\":\"css - Set opacity of background image without affecting child elements - Stack Overflow\",\"tweet_url\":\"https://twitter.com/statues/774528499864391681\"},{\"url\":\"https://www.htcvive.com/us/support/faqs/GUID-F58DDDBA-2214-49B1-92AE-12FF046C00EC.html\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/774497163137077248\"},{\"url\":\"http://dartlang-users-jp-invite.herokuapp.com/\",\"title\":\"Join dartlang-users-jp on Slack!\",\"tweet_url\":\"https://twitter.com/statues/773875001434841088\"},{\"url\":\"http://tsubakit1.hateblo.jp/entry/2015/09/17/233000\",\"title\":\"【Unity】背景をSkyboxで描画する - テラシュールブログ\",\"tweet_url\":\"https://twitter.com/statues/773865882820894720\"},{\"url\":\"http://getuikit.com/docs/description-list.html\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/773817818940706817\"},{\"url\":\"https://support.office.com/ja-jp/article/%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89%E3%81%AE%E3%83%9A%E3%83%BC%E3%82%B8%E7%95%AA%E5%8F%B7%E3%82%92%E6%8C%BF%E5%85%A5%E3%81%BE%E3%81%9F%E3%81%AF%E5%A4%89%E6%9B%B4%E3%81%99%E3%82%8B-8bad6395-a1f4-4af6-a360-0df412e510bf\",\"title\":\"スライドのページ番号を挿入または変更する - PowerPoint\",\"tweet_url\":\"https://twitter.com/statues/773177259007938561\"},{\"url\":\"https://www.reddit.com/r/GoogleCardboard/comments/30qu75/does_google_cardboard_work_at_all_without_a/\",\"title\":\"Does Google Cardboard work at all without a Gyroscope? : GoogleCardboard\",\"tweet_url\":\"https://twitter.com/statues/773099963056205824\"},{\"url\":\"http://tsutawarudesign.web.fc2.com/kakkoyoku5.html\",\"title\":\"配色｜伝わるデザイン\",\"tweet_url\":\"https://twitter.com/statues/772828806302224385\"},{\"url\":\"http://kazegusuri.hateblo.jp/entry/20110820/1313863295\",\"title\":\"GCCの警告を部分的にオフにする方法 - Boost Your Programming!\",\"tweet_url\":\"https://twitter.com/statues/772346863416516608\"},{\"url\":\"https://github.com/blog/2242-git-2-10-has-been-released\",\"title\":\"Git 2.10 has been released · GitHub\",\"tweet_url\":\"https://twitter.com/statues/772035554577752064\"},{\"url\":\"https://www.amazon.co.jp/exec/obidos/ASIN/4774184101/kazoo04hatena-22/\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/771550157347311617\"},{\"url\":\"https://www.youtube.com/watch?v=99Dib8GtgU8\",\"title\":\"Leap Motion VR Mount + HTC Vive - YouTube\",\"tweet_url\":\"https://twitter.com/statues/771309342901411841\"},{\"url\":\"https://agilecatcloud.com/2016/08/30/smartphone-platform-market-share/\",\"title\":\"スマフォ OS 戦争が終結した： それを示す１枚のチャート！ | Agile Cat --- in the cloud\",\"tweet_url\":\"https://twitter.com/statues/771148273864151040\"},{\"url\":\"https://pn2bs.herokuapp.com/pred?name=%E3%83%9D%E3%83%A4%E3%82%B7%E3%83%9F\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/770349068136517632\"},{\"url\":\"https://github.com/pugjs/pug/issues/654\",\"title\":\"Override variable in extending template · Issue #654 · pugjs/pug · GitHub\",\"tweet_url\":\"https://twitter.com/statues/770336009108062209\"},{\"url\":\"http://qiita.com/okamoai/items/224098a432e6e6df6da3\",\"title\":\"gulp-jade で JSON ファイルを変数に読み込む方法（gulp-pug v2 対応追記） - Qiita\",\"tweet_url\":\"https://twitter.com/statues/770303919759032320\"},{\"url\":\"http://en.cppreference.com/w/cpp/language/default_constructor\",\"title\":\"Default constructors - cppreference.com\",\"tweet_url\":\"https://twitter.com/statues/770176719017742336\"},{\"url\":\"http://qiita.com/sh4869/items/55d1ad5cd011113ed543\",\"title\":\"Dart 1.19リリースノート  - Qiita\",\"tweet_url\":\"https://twitter.com/statues/769934577351524352\"},{\"url\":\"https://en.wikipedia.org/wiki/Type_conversion#Type_promotion\",\"title\":\"Type conversion - Wikipedia\",\"tweet_url\":\"https://twitter.com/statues/769913221520109568\"},{\"url\":\"https://events.dartlang.org/2016/summit/\",\"title\":\"Dart Developer Summit 2016\",\"tweet_url\":\"https://twitter.com/statues/769806642426679296\"},{\"url\":\"https://github.com/sh4869/ChromeMarkdownLinkGenerator\",\"title\":\"GitHub - sh4869/ChromeMarkdownLinkGenerator: A chrome extension that copy tab title and url for markdown.\",\"tweet_url\":\"https://twitter.com/statues/769765233627795456\"},{\"url\":\"http://qiita.com/jkr_2255/items/17693ab77beea71a871c\",\"title\":\"setTimeout(...,0)などの使いドコロ - Qiita\",\"tweet_url\":\"https://twitter.com/statues/769511209800388608\"},{\"url\":\"https://developer.mozilla.org/ja/docs/Web/API/MutationObserver\",\"title\":\"MutationObserver - Web API インターフェイス | MDN\",\"tweet_url\":\"https://twitter.com/statues/769473744804859904\"},{\"url\":\"https://bramp.github.io/js-sequence-diagrams/\",\"title\":\"js-sequence-diagrams by bramp\",\"tweet_url\":\"https://twitter.com/statues/769462454531137536\"},{\"url\":\"https://github.com/gulpjs/gulp/blob/master/docs/recipes/delete-files-folder.md\",\"title\":\"gulp/delete-files-folder.md at master · gulpjs/gulp · GitHub\",\"tweet_url\":\"https://twitter.com/statues/769442716895830017\"},{\"url\":\"http://qiita.com/harayoki/items/8f31239b1bfa24e08bf1\",\"title\":\"SpineのJavaScriptランタイムがTypeScriptベースに正式移行 - Qiita\",\"tweet_url\":\"https://twitter.com/statues/768408033638555648\"},{\"url\":\"http://efcl.info/2015/09/14/textlint-rule-prh/\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/767679051980943361\"},{\"url\":\"http://minus9d.hatenablog.com/entry/20130817/1376725888\",\"title\":\"C++11で、chronoライブラリを使って時間を計測する - minus9d&#39;s diary\",\"tweet_url\":\"https://twitter.com/statues/767672896877584384\"},{\"url\":\"http://www.env.go.jp/annai/soshiki/bukyoku.html\",\"title\":\"環境省_環境省の組織（内部部局）\",\"tweet_url\":\"https://twitter.com/statues/767318726806876160\"},{\"url\":\"http://www.env.go.jp/nature/index.html\",\"title\":\"環境省_自然環境・生物多様性\",\"tweet_url\":\"https://twitter.com/statues/767318274124066816\"},{\"url\":\"http://qiita.com/mizchi/items/f0866cf1c239f81e697a\",\"title\":\"TypeScript の async/await をいますぐ使う - Qiita\",\"tweet_url\":\"https://twitter.com/statues/766659405496487936\"},{\"url\":\"https://support.lenovo.com/jp/ja/documents/pd029322\",\"title\":\"Lenovo サポート\",\"tweet_url\":\"https://twitter.com/statues/766623145356689408\"},{\"url\":\"http://qiita.com/kentskind/items/fc49952dda57c6a43260\",\"title\":\"語彙力診断の点数分布 - Qiita\",\"tweet_url\":\"https://twitter.com/statues/766490204060332032\"},{\"url\":\"https://github.com/PowerShell/PowerShell\",\"title\":\"GitHub - PowerShell/PowerShell: PowerShell for every system!\",\"tweet_url\":\"https://twitter.com/statues/766429507653734400\"},{\"url\":\"https://github.com/dart-lang/angular2/blob/master/ROADMAP.md\",\"title\":\"angular2/ROADMAP.md at master · dart-lang/angular2 · GitHub\",\"tweet_url\":\"https://twitter.com/statues/766429173598400512\"},{\"url\":\"http://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12110375082\",\"title\":\"池袋に電気部品屋ってありますか？？YAMADAとかビックカメラとか... - Yahoo!知恵袋\",\"tweet_url\":\"https://twitter.com/statues/765575469311807488\"},{\"url\":\"http://boxil.jp/magazine/visitingcard_management/\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/765551783754145793\"},{\"url\":\"https://github.com/petkaantonov/bluebird\",\"title\":\"GitHub - petkaantonov/bluebird: Bluebird is a full featured promise library with unmatched performance.\",\"tweet_url\":\"https://twitter.com/statues/763795264087871490\"},{\"url\":\"https://github.com/tfoxy/chrome-promise\",\"title\":\"GitHub - tfoxy/chrome-promise: Promises for chrome JavaScript APIs which are used in extensions and apps.\",\"tweet_url\":\"https://twitter.com/statues/763794775350714368\"},{\"url\":\"http://qiita.com/takoratta/items/5bfe926a6421a14c1f94\",\"title\":\"HTTPSにまつわる怪しい伝説を検証する - Google I/O 2016のセッションから - Qiita\",\"tweet_url\":\"https://twitter.com/statues/763330276051202048\"},{\"url\":\"https://circlesearch.paltee.net/\",\"title\":\"Circlesearch\",\"tweet_url\":\"https://twitter.com/statues/762661540319199234\"},{\"url\":\"http://blog.goo.ne.jp/jikisaim/e/f8761d7f369578d4676a7bcc46e0645b\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/762522854940299268\"},{\"url\":\"http://memo.sh4869.net/\",\"title\":\"The Problem of Thor Bridge\",\"tweet_url\":\"https://twitter.com/statues/762515704822181888\"},{\"url\":\"http://togetter.com/li/1009515\",\"title\":\"エスカレーターで注意を促すコミケスタッフに関する一意見 「コミケのスタッフがコミケを台無しにしてる」 - Togetterまとめ\",\"tweet_url\":\"https://twitter.com/statues/762510188691660800\"},{\"url\":\"https://www.oreilly.co.jp/books/9784873116808/\",\"title\":\"O'Reilly Japan - Makerムーブメント宣言\",\"tweet_url\":\"https://twitter.com/statues/762299573578502148\"},{\"url\":\"http://blog.sunrise.am/post/144196642739/its-almost-time-to-say-goodbye\",\"title\":\"It's almost time to say goodbye - Sunrise\",\"tweet_url\":\"https://twitter.com/statues/762288935984705536\"},{\"url\":\"http://tsubakit1.hateblo.jp/entry/2015/02/20/235021\",\"title\":\"Unityで対象のポイントへ等速で動かす - テラシュールブログ\",\"tweet_url\":\"https://twitter.com/statues/761669072530526210\"},{\"url\":\"http://postd.cc/how-well-do-you-know-display/\",\"title\":\"あなたはCSSプロパティ&#8221;display&#8221;をどのぐらい知っているだろうか？ | デザイン | POSTD\",\"tweet_url\":\"https://twitter.com/statues/761543866121990144\"},{\"url\":\"http://walk.wgag.net/haskell/list.html\",\"title\":\"リスト - ウォークスルー Haskell\",\"tweet_url\":\"https://twitter.com/statues/761480273934430208\"},{\"url\":\"http://sky.geocities.jp/choto_skyfly/\",\"title\":\"空を飛部\",\"tweet_url\":\"https://twitter.com/statues/761225435577397248\"},{\"url\":\"https://tofu-ya.comike.moe/\",\"title\":\"KnobCon by 豆腐屋 - 創造とアソビの扉を、今ひらこう。\",\"tweet_url\":\"https://twitter.com/statues/760862614674997248\"},{\"url\":\"http://forum.unity3d.com/threads/how-to-load-an-array-with-jsonutility.375735/\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/760701922101846016\"},{\"url\":\"http://tsubakit1.hateblo.jp/entry/20140621/1403341855\",\"title\":\"Unityの3D Textで文字が滲む問題の対策 - テラシュールブログ\",\"tweet_url\":\"https://twitter.com/statues/760670610896752640\"},{\"url\":\"http://answers.unity3d.com/questions/311653/namespace-error-with-serializable.html\",\"title\":\"namespace error with [Serializable] - Unity Answers\",\"tweet_url\":\"https://twitter.com/statues/760660287267545088\"},{\"url\":\"http://kishidamel.tumblr.com/\",\"title\":\"岸田メルのイラスト\",\"tweet_url\":\"https://twitter.com/statues/760443655685419008\"},{\"url\":\"http://nanase.hatenablog.jp/entry/2013/09/09/232529\",\"title\":\"Githubの2段階認証を有効にしてgitからの認証が弾かれる時の話 - 頼りないニモニック\",\"tweet_url\":\"https://twitter.com/statues/760336817904156672\"},{\"url\":\"https://nippo.wikihub.io/@sh4869/20160801151212\",\"title\":\"2016-08-01 sh4869 - 日報\",\"tweet_url\":\"https://twitter.com/statues/760131070092128257\"},{\"url\":\"http://anond.hatelabo.jp/20160507073642\",\"title\":\"日本人誰もがMarkdownを真に理解していない\",\"tweet_url\":\"https://twitter.com/statues/759946139130994689\"},{\"url\":\"http://sasamijp.hatenablog.com/entry/2016/07/30/223322\",\"title\":\"食器輪郭特徴量でじゃんけん画像識別 - ささみろぐ\",\"tweet_url\":\"https://twitter.com/statues/759944915698667525\"},{\"url\":\"http://utsunomiyakenji.com/1040\",\"title\":\"応援要請についての公開書面 | 希望のまち東京をつくる会 宇都宮けんじ公式サイト\",\"tweet_url\":\"https://twitter.com/statues/759914121378672640\"},{\"url\":\"http://tassle.hatenablog.com/entry/2016/05/11/180607\",\"title\":\"UnityのプロジェクトをVSCodeで開く - ゲームつくろうぜ\",\"tweet_url\":\"https://twitter.com/statues/759790066780676096\"},{\"url\":\"http://stackoverflow.com/questions/2323401/how-to-call-base-base-method\",\"title\":\"c# - How to call base.base.method()? - Stack Overflow\",\"tweet_url\":\"https://twitter.com/statues/759775533957656577\"},{\"url\":\"https://nippo.wikihub.io/@sh4869/20160731141539\",\"title\":\"2016-07-31 sh4869 - 日報\",\"tweet_url\":\"https://twitter.com/statues/759754526597353478\"},{\"url\":\"http://gototeruki.blog.fc2.com/blog-entry-377.html\",\"title\":\"供託金も高過ぎる。 - 後藤輝樹様のオフィシャルブログ\",\"tweet_url\":\"https://twitter.com/statues/759737225961623552\"},{\"url\":\"http://rentwi.textfile.org/?759297917043609600s\",\"title\":\"「私は数式アレルギーの文系でして」とへらへら笑う大人に耳を貸すな。 - 結城浩の連ツイ\",\"tweet_url\":\"https://twitter.com/statues/759403469216243713\"},{\"url\":\"http://anond.hatelabo.jp/20160728204250\",\"title\":\"うなぎが絶滅する瞬間を見たいという欲望\",\"tweet_url\":\"https://twitter.com/statues/759355372989616128\"},{\"url\":\"https://github.com/cbucher/console\",\"title\":\"GitHub - cbucher/console: This is a modified version of Console 2 for a better experience under Windows Vista/7/8/10 and a better visual rendering.\",\"tweet_url\":\"https://twitter.com/statues/759051232321208320\"},{\"url\":\"http://mag.switch-science.com/2016/07/25/handazukecafe_news/?via=twitter&category=news\",\"title\":\"秋葉原のはんだづけカフェを閉店します。【スイッチサイエンスチャンネル】 | スイッチサイエンス マガジン\",\"tweet_url\":\"https://twitter.com/statues/759035859068870657\"},{\"url\":\"http://blog.nocorica.jp/2015/06/atom-selection-color/\",\"title\":\"Atomで選択範囲の背景色を見やすく変更する &#8211; nocorica\",\"tweet_url\":\"https://twitter.com/statues/759019377043738624\"},{\"url\":\"http://www3.nhk.or.jp/news/html/20160729/k10010613021000.html?utm_int=news_contents_news-main_001\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/758930222892785665\"},{\"url\":\"https://cpplover.blogspot.jp/2016/07/blog-post_29.html\",\"title\":\"本の虫: 東京都知事選挙の候補者の主張の実現可能性の考察\",\"tweet_url\":\"https://twitter.com/statues/758876912793989125\"},{\"url\":\"http://www.slideshare.net/atsushihanda3/css-precss-64333076\",\"title\":\"CSSの新しい設計思想 PRECSSを作りました\",\"tweet_url\":\"https://twitter.com/statues/758283784709996545\"},{\"url\":\"http://ssig33.com/text/GithubFlow_and_organization\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/757975517186232320\"},{\"url\":\"https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A7%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%9E%E3%83%BC%E3%82%AF%E5%8A%B9%E6%9E%9C\",\"title\":\"ウェスターマーク効果 - Wikipedia\",\"tweet_url\":\"https://twitter.com/statues/757969512809402368\"},{\"url\":\"https://github.com/kyontan/edict-for-google-ime\",\"title\":\"GitHub - kyontan/edict-for-google-ime: Google 日本語入力 用の 和英変換辞書\",\"tweet_url\":\"https://twitter.com/statues/757966693859590145\"},{\"url\":\"http://www.slideshare.net/youichiromiyake/20062016-63459412\",\"title\":\"人工知能 - アニメーション- マップ (2006-2016)\",\"tweet_url\":\"https://twitter.com/statues/757600562938388482\"},{\"url\":\"http://demamatome.blog.fc2.com/blog-entry-18.html\",\"title\":\"「ポケモンGOで保護犬の散歩が大人気」の嘘と本当 - 情報検証雑記ブログ\",\"tweet_url\":\"https://twitter.com/statues/757188080893775873\"},{\"url\":\"https://userstyles.org/\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/757170134301585408\"},{\"url\":\"http://www.ondoku.sakura.ne.jp/nihongorizumu1onsuritu.html\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/757133391032520704\"},{\"url\":\"http://www.ondoku.sakura.ne.jp/rizumu.html\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/756839489532682240\"},{\"url\":\"https://www.nhk.or.jp/bunken/summary/kotoba/term/012.html\",\"title\":\"「おられます」 | ことば（放送用語） - 最近気になる放送用語 | NHK放送文化研究所\",\"tweet_url\":\"https://twitter.com/statues/756757588134408192\"},{\"url\":\"http://haiji.co/\",\"title\":\"Haiji Haiiro\",\"tweet_url\":\"https://twitter.com/statues/756492192462479360\"},{\"url\":\"http://tsutawarudesign.web.fc2.com/\",\"title\":\"伝わるデザイン｜研究発表のユニバーサルデザイン\",\"tweet_url\":\"https://twitter.com/statues/756491181568122880\"},{\"url\":\"http://moguno.hatenablog.jp/entry/2015/09/12/100231\",\"title\":\"Bonjour for Windows不要！Windows10マシンに&quot;.local&quot;でアクセスしよう！ - もぐてっく\",\"tweet_url\":\"https://twitter.com/statues/756468597564727296\"},{\"url\":\"https://speakerdeck.com/fadis/xiao-sailinuxhuan-jing-falsezuo-rifang\",\"title\":\"小さいLinux環境の作り方 // Speaker Deck\",\"tweet_url\":\"https://twitter.com/statues/755437212750065664\"},{\"url\":\"https://www.behance.net/gallery/15574861/Moderne-Sans-Free-Typeface\",\"title\":\"Behance\",\"tweet_url\":\"https://twitter.com/statues/754885142573752320\"},{\"url\":\"http://otokitashun.com/blog/senkyo/12048/\",\"title\":\"小池百合子候補の「コミケ応援宣言」、その真意は？表現の自由について直接聞いてきた | 東京都議会議員 おときた駿 公式サイト\",\"tweet_url\":\"https://twitter.com/statues/754684545752928257\"},{\"url\":\"https://www.amazon.com/Dart-Programming-Language-Gilad-Bracha/dp/0321927702\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/754205971530981376\"},{\"url\":\"http://memo.sh4869.net/\",\"title\":\"The Problem of Thor Bridge\",\"tweet_url\":\"https://twitter.com/statues/754165928632344577\"},{\"url\":\"https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%AB%E3%83%99%E3%83%AB%E3%83%88%E3%81%AE%E7%84%A1%E9%99%90%E3%83%9B%E3%83%86%E3%83%AB%E3%81%AE%E3%83%91%E3%83%A9%E3%83%89%E3%83%83%E3%82%AF%E3%82%B9\",\"title\":\"ヒルベルトの無限ホテルのパラドックス - Wikipedia\",\"tweet_url\":\"https://twitter.com/statues/751556515157282816\"},{\"url\":\"http://www.h28sangiinsen.metro.tokyo.jp/election2/list01.html\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/751291762304430080\"},{\"url\":\"http://aomasa.blogspot.jp/2016/06/blog-post.html\",\"title\":\"とても眠い人のブログ: 残念だが当然の結果\",\"tweet_url\":\"https://twitter.com/statues/749184164407054336\"},{\"url\":\"http://b.hatena.ne.jp/entry/whywaita.hateblo.jp/entry/2016/05/20/192831\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/748029703567581185\"},{\"url\":\"http://www.sic.shibaura-it.ac.jp/~hiroaki/lecture/researchintro.pdf\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/747587716406087680\"},{\"url\":\"http://tsubakit1.hateblo.jp/entry/2015/02/20/235021\",\"title\":\"Unityで対象のポイントへ等速で動かす - テラシュールブログ\",\"tweet_url\":\"https://twitter.com/statues/747288941762535428\"},{\"url\":\"http://sh4869.net/slides/programming-beginner-tips/#/\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/744806332029558784\"},{\"url\":\"http://kamipro.com/blog/?p=16006\",\"title\":\"【黒バス脅迫事件】実刑判決が下った渡邊被告のロジカルでドラマチックな『最終意見陳述』があまりにも切ない | かみぷろ\",\"tweet_url\":\"https://twitter.com/statues/744462534749491200\"},{\"url\":\"http://jp.reuters.com/article/column-brexit-kenichiro-yoshida-idJPKCN0Z00T6?pageNumber=2&sp=true\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/744050335338102786\"},{\"url\":\"http://blogos.com/article/162380/\",\"title\":\"英国のEU離脱問題「ブレキジット(Brexit)」、英国は何が不満なの？\",\"tweet_url\":\"https://twitter.com/statues/744049466622287872\"},{\"url\":\"http://ci.nii.ac.jp/naid/110009850853\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/742258065433452546\"},{\"url\":\"http://www.nicovideo.jp/watch/sm3208700\",\"title\":\"TVアニメ「紅 -KURENAI-」DVD CM by penpengusa アニメ/動画 - ニコニコ動画\",\"tweet_url\":\"https://twitter.com/statues/742007168627417089\"},{\"url\":\"http://thesaurus.weblio.jp/content/%E3%81%82%E3%82%8A%E3%81%8C%E3%81%9F%E3%81%95\",\"title\":\"ありがたさの同義語 - 類語辞典(シソーラス)\",\"tweet_url\":\"https://twitter.com/statues/741912150193647616\"},{\"url\":\"http://cpplover.blogspot.jp/2013/10/blog-post_20.html\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/741836228966764544\"},{\"url\":\"https://speakerdeck.com/yosuke_furukawa/es2015falsexian-zai-toesnextfalsewei-lai\",\"title\":\"ES2015の現在とESNextの未来 // Speaker Deck\",\"tweet_url\":\"https://twitter.com/statues/741823001679667200\"},{\"url\":\"http://wired.jp/innovationinsights/post/retail/i/uberization-and-innovation/\",\"title\":\"浅野智也 | 創造的破壊は避けられない、ならば自ら変化し自らの手で破壊せよ « INNOVATION INSIGHTS\",\"tweet_url\":\"https://twitter.com/statues/741666606380507136\"},{\"url\":\"http://wired.jp/2016/06/09/pepper-learns-feel-like/\",\"title\":\"ロボットは子どもの教育に悪影響!? Pepper、アメリカ進出の多難｜WIRED.jp\",\"tweet_url\":\"https://twitter.com/statues/741422416589524992\"},{\"url\":\"https://speakerdeck.com/matsumoto_r/career-keynote-2016\",\"title\":\"技術者と研究者の狭間で得たたったひとつの教訓 2016 / career-keynote-2016 // Speaker Deck\",\"tweet_url\":\"https://twitter.com/statues/741135028348948480\"},{\"url\":\"http://bic.camera/api/v1/count.json\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/741056707615330304\"},{\"url\":\"https://github.com/suzutan/bic.camera\",\"title\":\"GitHub - suzutan/bic.camera\",\"tweet_url\":\"https://twitter.com/statues/741056402710355968\"},{\"url\":\"http://rraj.rsj-web.org/atcl/972\",\"title\":\"インターネット指向のロボットサービスとロボットサービスイニシアティブの活動 | 日本のロボット研究開発の歩み | 日本ロボット学会\",\"tweet_url\":\"https://twitter.com/statues/740213130945384449\"},{\"url\":\"http://nobkz.hatenadiary.jp/entry/2016/06/02/005114\",\"title\":\"SPAである価値 - nobkzのブログ\",\"tweet_url\":\"https://twitter.com/statues/738696045454987264\"},{\"url\":\"http://mandel59.hateblo.jp/entry/2016/05/11/002356\",\"title\":\"プログラム意味論の分かりやすい紹介 - Ryusei’s Notes (a.k.a. M59のブログ)\",\"tweet_url\":\"https://twitter.com/statues/737197131006500865\"},{\"url\":\"http://inaz2.hatenablog.com/entry/2014/07/27/205913\",\"title\":\"ELF実行ファイルのメモリ配置はどのように決まるのか - ももいろテクノロジー\",\"tweet_url\":\"https://twitter.com/statues/737117415897587713\"},{\"url\":\"http://www.irasutoya.com/2016/05/blog-post_225.html\",\"title\":\"２年縛りのイラスト | かわいいフリー素材集 いらすとや\",\"tweet_url\":\"https://twitter.com/statues/736962830272888832\"},{\"url\":\"http://quesera2.hatenablog.jp/entry/2016/05/28/180834\",\"title\":\"Javaと偽Javaの話。 - なるようになるかも\",\"tweet_url\":\"https://twitter.com/statues/736753847582892034\"},{\"url\":\"http://psychmuseum.jp/just_world/\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/736745725086732288\"},{\"url\":\"http://internet.watch.impress.co.jp/docs/event/20160526_759214.html?utm_source=dlvr.it&utm_medium=twitter\",\"title\":\"「りんな」が言葉を紡ぐ裏には、最新の自然言語処理技術があった - INTERNET Watch\",\"tweet_url\":\"https://twitter.com/statues/736185317435146245\"},{\"url\":\"https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E6%98%A0%E7%94%BB%E3%83%99%E3%82%B9%E3%83%88100\",\"title\":\"アメリカ映画ベスト100 - Wikipedia\",\"tweet_url\":\"https://twitter.com/statues/736161153978535936\"},{\"url\":\"http://abebetaro.hatenablog.jp/entry/2016/05/25/114314\",\"title\":\"その道で食べてる人が自身で得た技術を他人に教えたりしているのはどういう気持ちなんだろうか - abebetaroの日記\",\"tweet_url\":\"https://twitter.com/statues/736111002886885376\"},{\"url\":\"http://blog.supermomonga.com/articles/vim/startdash-with-mac.html\",\"title\":\"Macを購入したら絶対に導入したい！私が3年間で厳選した超オススメアプリ10選！ - かなりすごいブログ\",\"tweet_url\":\"https://twitter.com/statues/736050247344885760\"},{\"url\":\"http://qiita.com/laco0416/items/ed1aadf335f12cd3618d\",\"title\":\"npmでTypeScriptの型定義を管理できるtypesパッケージについて - Qiita\",\"tweet_url\":\"https://twitter.com/statues/736033828637007872\"},{\"url\":\"https://github.com/ntaoo/npb_polls_client\",\"title\":\"GitHub - ntaoo/npb_polls_client: An example of Angular2 Dart app.\",\"tweet_url\":\"https://twitter.com/statues/735789499603521536\"},{\"url\":\"https://npb-polls.appspot.com/\",\"title\":\"プロ野球 順位投票 2016\",\"tweet_url\":\"https://twitter.com/statues/735789476769726466\"},{\"url\":\"https://readyfor.jp/projects/ochyaigogo\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/735446116632690688\"},{\"url\":\"http://anton0825.hatenablog.com/entry/2015/07/06/000000\",\"title\":\"tslintの各オプションの意味一覧 - 日々精進\",\"tweet_url\":\"https://twitter.com/statues/735178393247850496\"},{\"url\":\"http://qiita.com/suzuki86/items/2a2801944a3e393464c7\",\"title\":\"文章中から韻を踏んでいるフレーズの組み合わせを検出する gem を作りました - Qiita\",\"tweet_url\":\"https://twitter.com/statues/734910338768900097\"},{\"url\":\"http://www.nicovideo.jp/watch/sm28879986\",\"title\":\"【四月は君の嘘】光るなら (QL 平面説 Mashup) by QubicLoop 音楽/動画 - ニコニコ動画\",\"tweet_url\":\"https://twitter.com/statues/733359337649758208\"},{\"url\":\"http://yosuke-furukawa.hatenablog.com/entry/2016/03/27/152500\",\"title\":\"JavaScriptの文化とleftpadの話とpadStartについて - from scratch\",\"tweet_url\":\"https://twitter.com/statues/733357711056723980\"},{\"url\":\"http://qiita.com/yoichiro6642/items/2702037f63157c241941\",\"title\":\"Android NのOS Updateが速く安全になった理由はChromeOSにあった - Qiita\",\"tweet_url\":\"https://twitter.com/statues/733353863520997376\"},{\"url\":\"http://tsukurioki.hatenablog.com/entry/2016/05/15/212144\",\"title\":\"ジンジャーのエール - #つくりおき\",\"tweet_url\":\"https://twitter.com/statues/732042631513968640\"},{\"url\":\"http://www.irasutoya.com/2016/05/blog-post_868.html\",\"title\":\"心に闇を抱えた人のイラスト&#65288;男性&#65289; | かわいいフリー素材集 いらすとや\",\"tweet_url\":\"https://twitter.com/statues/731724051966615552\"},{\"url\":\"https://www.microsoft.com/ja-jp/store/apps/ytweetmetro/9nblggh6j37n\",\"title\":\" – Microsoft ストアの Windows アプリ\",\"tweet_url\":\"https://twitter.com/statues/730807864797724672\"},{\"url\":\"http://codezine.jp/article/detail/9423\",\"title\":\"Apple、次期メジャーバージョン「Swift 3.0」のリリース過程を解説、正式リリースは2016年後半予定：CodeZine（コードジン）\",\"tweet_url\":\"https://twitter.com/statues/730805682992091136\"},{\"url\":\"http://t-ritama.hatenablog.com/entry/2016/05/12/215446\",\"title\":\"私が休学を決めるまで - Ｔ．が過去を振り返る\",\"tweet_url\":\"https://twitter.com/statues/730782970374557697\"},{\"url\":\"http://jr.mitou.org/\",\"title\":\"未踏ジュニア - 小中高生向けミニ未踏プロジェクト\",\"tweet_url\":\"https://twitter.com/statues/729747046236704768\"},{\"url\":\"http://vergil.hateblo.jp/entry/2016/05/07/152037\",\"title\":\"反戦童話「かわいそうなぞう」が露呈した戦後平和教育の欠陥 - 読む・考える・書く\",\"tweet_url\":\"https://twitter.com/statues/729208341231099904\"},{\"url\":\"https://github.com/sh4869/SISlide\",\"title\":\"GitHub - sh4869/SISlide: Self Introduction Slides in DigiCre\",\"tweet_url\":\"https://twitter.com/statues/728621432029118464\"},{\"url\":\"http://togetter.com/li/782025\",\"title\":\"研究発表におけるご清聴スライド問題 - Togetterまとめ\",\"tweet_url\":\"https://twitter.com/statues/728522310307618816\"},{\"url\":\"https://techbookfest.org/\",\"title\":\"技術書典\",\"tweet_url\":\"https://twitter.com/statues/728098329326817280\"},{\"url\":\"http://rao.yaneu.com/2015/09/09/%e5%95%8f%e9%a1%8c%e3%81%af%e8%a7%a3%e6%b1%ba%e3%81%99%e3%82%8c%e3%81%b0%e3%81%84%e3%81%84%e3%81%a8%e3%81%84%e3%81%86%e3%82%82%e3%81%ae%e3%81%a7%e3%81%af%e3%81%aa%e3%81%84/\",\"title\":\"問題は解決すればいいというものではない | やねうらお.com\",\"tweet_url\":\"https://twitter.com/statues/727518549812486144\"},{\"url\":\"http://qiita.com/sh4869/items/32eaa33da2afeea313d3\",\"title\":\"Dart 1.16 リリースノート - Qiita\",\"tweet_url\":\"https://twitter.com/statues/726045500596613120\"},{\"url\":\"http://www.nicovideo.jp/watch/sm24275925?ref=search_key_video\",\"title\":\"ゆっくりクソ映画レビューvol.1：「トランスモーファー」 by 知的風ハット エンターテイメント/動画 - ニコニコ動画\",\"tweet_url\":\"https://twitter.com/statues/725968038575529984\"},{\"url\":\"http://ejje.weblio.jp/content/the+name+of+the+game\",\"title\":\"the name of the gameの意味 - 英和辞典 Weblio辞書\",\"tweet_url\":\"https://twitter.com/statues/725874314487058432\"},{\"url\":\"http://qiita.com/hachi8833/items/4666638e930de65dcdef\",\"title\":\"エンジニア・Webデザイナー必読: アプリケーションを国際化・多言語展開する前に知っておくべきこと - Qiita\",\"tweet_url\":\"https://twitter.com/statues/725845858726481921\"},{\"url\":\"http://blogs.unity3d.com/jp/2016/04/12/developing-the-new-input-system-together-with-you/\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/723780695500288000\"},{\"url\":\"https://www.youtube.com/watch?v=s1m4FXXXXzg\",\"title\":\"日本平動物園ホッキョクグマ（ロッシー・バニラ）ライブカメラ（旧） - YouTube\",\"tweet_url\":\"https://twitter.com/statues/723761312879104001\"},{\"url\":\"http://dic.nicovideo.jp/a/%E6%94%AF%E6%89%95%E3%81%84%E3%81%AF%E4%BB%BB%E3%81%9B%E3%82%8D%E3%83%BC\",\"title\":\"支払いは任せろーとは (バリバリとは) [単語記事] - ニコニコ大百科\",\"tweet_url\":\"https://twitter.com/statues/723760957898391553\"},{\"url\":\"http://nobkz.hatenadiary.jp/entry/2015/02/26/110009\",\"title\":\"フロントエンドできない人が、フロントエンドやりすぎだ。あと、Vanilla.jsが便利だ。 - nobkzのブログ\",\"tweet_url\":\"https://twitter.com/statues/723362326003339265\"},{\"url\":\"http://ichiro-maruta.blogspot.jp/2016/01/atom-latex-on-windows.html\",\"title\":\"Atom で LaTeX on Windows &#65288;+ 最近のビルド環境&#65289; - Ichiro Maruta Homepage\",\"tweet_url\":\"https://twitter.com/statues/722783239358648320\"},{\"url\":\"http://hontolab.org/download/WebDB2010.pdf\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/721978066147225600\"},{\"url\":\"http://www.takeda.co.jp/ct/placebo.html\",\"title\":\"プラセボとは？ | 治験について | 武田薬品工業株式会社\",\"tweet_url\":\"https://twitter.com/statues/721635383100878848\"},{\"url\":\"https://docs.google.com/document/d/138ESdLm614FvP-HZ_FdeWpE3X1JWdG98H20tPaFkH_o/edit?pref=2&pli=1\",\"title\":\"Postmortem reports - Google ドキュメント\",\"tweet_url\":\"https://twitter.com/statues/720860634330497024\"},{\"url\":\"http://archive.is/Nq0ce#selection-1325.95-1325.109\",\"title\":\"赤枝氏「女の子はキャバクラへ」発言、会合での主な内容：朝日新聞デジタル\",\"tweet_url\":\"https://twitter.com/statues/720844204289601537\"},{\"url\":\"http://anond.hatelabo.jp/20160412211055\",\"title\":\"新しく近所に建った保育園がうるさいので苦情を言いにいった。\",\"tweet_url\":\"https://twitter.com/statues/720841121971056640\"},{\"url\":\"https://medium.com/@c_z/%E3%83%91%E3%83%8A%E3%83%9E%E6%96%87%E6%9B%B8-%E8%A7%A3%E6%9E%90%E3%81%AE%E6%8A%80%E8%A1%93%E7%9A%84%E5%81%B4%E9%9D%A2-d10201bbe195#.qfiubs2qi\",\"title\":\"「パナマ文書」解析の技術的側面 – Keiichiro Ono – Medium\",\"tweet_url\":\"https://twitter.com/statues/719146033528176640\"},{\"url\":\"https://github.com/dart-lang/sdk/milestones\",\"title\":\"Milestones - dart-lang/sdk · GitHub\",\"tweet_url\":\"https://twitter.com/statues/717936593365938178\"},{\"url\":\"https://github.com/kujirahand/nadesiko\",\"title\":\"GitHub - kujirahand/nadesiko: Japanese Programming Language\",\"tweet_url\":\"https://twitter.com/statues/717743519528452096\"},{\"url\":\"http://tumblr.sh4869.net/post/141086491905/%E7%B5%B5%E3%81%A8%E3%81%AE%E8%B7%9D%E9%9B%A2%E6%84%9F%E3%81%A8%E3%81%8B\",\"title\":\"Wisteria Lodge, 絵との距離感とか\",\"tweet_url\":\"https://twitter.com/statues/717702103351697409\"},{\"url\":\"https://www.youtube.com/watch?v=K8KRWEZOvSE\",\"title\":\"GRAPEVINE - 光について - YouTube\",\"tweet_url\":\"https://twitter.com/statues/716677771682930688\"},{\"url\":\"http://www.amazon.co.jp/registry/wishlist/38EAFB8A4MOBM?sort=universal-price&view=null\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/716643109392678912\"},{\"url\":\"http://hnakai0909.github.io/works/suumo/\",\"title\":\"あ！スーモ！\",\"tweet_url\":\"https://twitter.com/statues/716641797938655234\"},{\"url\":\"http://qiita.com/m2266269151/items/be7cdc16d662bc4bb226?utm_content=buffer373a6&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer\",\"title\":\"ITに興味はないけどエンジニアになってしまった新人が業務や会社に効率的に慣れる方法 - Qiita\",\"tweet_url\":\"https://twitter.com/statues/716574379379933184\"},{\"url\":\"http://data.chronicle.com/\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/716571516989677568\"},{\"url\":\"https://github.com/yjbanov/butterfly\",\"title\":\"GitHub - yjbanov/butterfly: A web framework for Dart based on Flutter&#39;s widget model\",\"tweet_url\":\"https://twitter.com/statues/716514843503628289\"},{\"url\":\"http://www.irohika-server.jp/mail_bargain_biz.html\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/716489101453565952\"},{\"url\":\"http://www.tumblrmerch.com/\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/716472495902031873\"},{\"url\":\"http://liginc.co.jp/246919\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/715940916784025600\"},{\"url\":\"http://docs.yahoo.co.jp/20years/\",\"title\":\"インターネットの歴史 History of the Internet - Yahoo! JAPAN\",\"tweet_url\":\"https://twitter.com/statues/715939419472027649\"},{\"url\":\"https://www.gitkraken.com/\",\"title\":\"Git GUI Client for Windows Mac and Linux | Axosoft GitKraken\",\"tweet_url\":\"https://twitter.com/statues/715923404105187328\"},{\"url\":\"http://t-techlab.net/?page_id=353\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/715554605006848002\"},{\"url\":\"http://www.mext.go.jp/b_menu/houdou/28/03/1369003.htm\",\"title\":\"平成28年度スーパーサイエンスハイスクール（SSH）指定校の内定等について：文部科学省\",\"tweet_url\":\"https://twitter.com/statues/714775914182082560\"},{\"url\":\"http://tokyotsamurai.blogspot.jp/2016/03/blog-post.html\",\"title\":\"Tokyo Technical Samurai Blog: アメリカへ\",\"tweet_url\":\"https://twitter.com/statues/714729465860001795\"},{\"url\":\"http://hon.bunshun.jp/articles/-/4662\",\"title\":\"公開イベントで明かされた「声のお仕事」ウラ話　『声のお仕事』 （川端裕人 著）｜特集｜「本の話」編集部｜本の話WEB\",\"tweet_url\":\"https://twitter.com/statues/714425469156732928\"},{\"url\":\"http://ikr7.hatenablog.com/entry/2015/03/13/203148\",\"title\":\"Google 翻訳の英語に日本語喋らせる遊び - 救済\",\"tweet_url\":\"https://twitter.com/statues/714373882128388097\"},{\"url\":\"https://techbookfest.github.io/\",\"title\":\"技術書典：技術書オンリーイベント\",\"tweet_url\":\"https://twitter.com/statues/713334937856790529\"},{\"url\":\"http://www.typescriptlang.org/Tutorial\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/712982873658097665\"},{\"url\":\"http://ubiteku.oinker.me/2015/07/27/why-most-unit-testing-is-waste/\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/712555245566619648\"},{\"url\":\"https://makenowjust.github.io/\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/712549478935498753\"},{\"url\":\"https://github.com/sh4869/yahoo_ma_service.cr\",\"title\":\"GitHub - sh4869/yahoo_ma_service.cr: Yahoo Japanese Morphological analysis Service API Wrapper for Crystal\",\"tweet_url\":\"https://twitter.com/statues/712518862978289664\"},{\"url\":\"https://medium.com/@azerbike/i-ve-just-liberated-my-modules-9045c06be67c#.oyhyaf9en\",\"title\":\"I’ve Just Liberated My Modules – Azer Koçulu – Medium\",\"tweet_url\":\"https://twitter.com/statues/712455676828655616\"},{\"url\":\"http://www.bit-hand.com/entry/how_to_increase_womens_engineers\",\"title\":\"女性エンジニアを増やすのは、キラキラ感よりもお得感だと思う - BiTHAND\",\"tweet_url\":\"https://twitter.com/statues/712444766517010432\"},{\"url\":\"http://qiita.com/zr_tex8r/items/b453a37d7399a894ed87\",\"title\":\"sed（だけ）でズンドコキヨシ - Qiita\",\"tweet_url\":\"https://twitter.com/statues/712265553340010496\"},{\"url\":\"http://yagikonatsu.hatenablog.com/entry/2015/12/28/142903\",\"title\":\"同人小説を書くことについて - konatsu&#39;s blog\",\"tweet_url\":\"https://twitter.com/statues/712156756022059008\"},{\"url\":\"http://japan.cnet.com/sp/smartphone_native/35079620/\",\"title\":\"支援する「囲い」と支援されたい少年配信者たち - CNET Japan\",\"tweet_url\":\"https://twitter.com/statues/712124841575342080\"},{\"url\":\"https://github.com/julius-speech/julius\",\"title\":\"GitHub - julius-speech/julius: Open-Source Large Vocabulary Continuous Speech Recognition Engine\",\"tweet_url\":\"https://twitter.com/statues/711897561330651136\"},{\"url\":\"https://medium.com/@ihayato/%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF-%E3%82%A4%E3%82%B1%E3%83%80%E3%83%8F%E3%83%A4%E3%83%88%E3%81%A7%E3%81%99-%E5%85%88%E6%97%A5%E3%82%A2%E3%83%83%E3%83%97%E3%81%97%E3%81%9F%E3%81%93%E3%81%A1%E3%82%89%E3%81%AE%E8%A8%98%E4%BA%8B%E3%81%8C%E3%81%A8%E3%81%A6%E3%82%82%E5%A5%BD%E8%A9%95%E3%81%A7%E3%81%97%E3%81%9F-596811c552aa#.7bj4725r8\",\"title\":\"プログラミングスキルがあれば学歴なんていらない。17歳女子高生が大学進学をやめて挑む初起業。 – Everything’s an Experiment – Medium\",\"tweet_url\":\"https://twitter.com/statues/711455100468797441\"},{\"url\":\"http://live.nicovideo.jp/watch/lv256017127#19:04\",\"title\":\"歌舞伎座.tech#9「異種プログラミング言語格闘勉強会」 - 2016/03/20 13:30開始 - ニコニコ生放送\",\"tweet_url\":\"https://twitter.com/statues/711416377706356737\"},{\"url\":\"https://github.com/crystal-lang/crystal/issues/2319\",\"title\":\"XML Entity reference with Japnase String · Issue #2319 · crystal-lang/crystal · GitHub\",\"tweet_url\":\"https://twitter.com/statues/711154553350017024\"},{\"url\":\"http://blog.qiita.com/post/141132737319/4yournewlife\",\"title\":\"Qiitaで春の新生活を応援しましょう！ - Qiita Blog\",\"tweet_url\":\"https://twitter.com/statues/710744330760097792\"},{\"url\":\"https://www.dartlang.org/events/2016/summit/\",\"title\":\"Dart Developer Summit 2016\",\"tweet_url\":\"https://twitter.com/statues/710685965220622338\"},{\"url\":\"http://meeta.weban.jp/contents/magazine/160315.html?utm_content=buffer38982&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer\",\"title\":\"15歳でデビューした芸能界、大学で始めたプログラミング…偶然が作った自分だけの生き方。”ギークな女優”が歩んできた、これまでの道程 | meeta MAGAZINE　(ミータマガジン)\",\"tweet_url\":\"https://twitter.com/statues/709741993748856832\"},{\"url\":\"http://lacolaco.net/\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/709740327033122817\"},{\"url\":\"https://media.dmm-make.com/item/3685/\",\"title\":\"ロボットが完成しました！ by Tokyo Technical 侍 - DMM.make\",\"tweet_url\":\"https://twitter.com/statues/709643456524582912\"},{\"url\":\"https://github.com/sh4869/sh4869.github.io/commit/be4e37803e9d2a69273cfb020f6663db1437712e\",\"title\":\":clap: 卒業しました · sh4869/sh4869.github.io@be4e378 · GitHub\",\"tweet_url\":\"https://twitter.com/statues/709388006587654144\"},{\"url\":\"https://github.com/sh4869/Playground/tree/master/DDC_TEST\",\"title\":\"Playground/DDC_TEST at master · sh4869/Playground · GitHub\",\"tweet_url\":\"https://twitter.com/statues/708981796029882376\"},{\"url\":\"https://github.com/sh4869/Playground/tree/master/DDC_TEST\",\"title\":\"Playground/DDC_TEST at master · sh4869/Playground · GitHub\",\"tweet_url\":\"https://twitter.com/statues/708969106981060609\"},{\"url\":\"http://qiita.com/sh4869/items/3b6076cc4d018aee722f\",\"title\":\"Dart 1.15 リリースノートとこれからのDartの進みなど - Qiita\",\"tweet_url\":\"https://twitter.com/statues/708661673523941376\"},{\"url\":\"http://konomanga.jp/manga/euphonium\",\"title\":\"響け！ユーフォニアム 北宇治高校吹奏楽部、最大の危機 &nbsp;|&nbsp; このマンガがすごい！WEB\",\"tweet_url\":\"https://twitter.com/statues/708644046881689600\"},{\"url\":\"http://qiita.com/takyam/items/161af576ded7debe2156\",\"title\":\"Zones (Dart公式ドキュメントの翻訳) - Qiita\",\"tweet_url\":\"https://twitter.com/statues/706643313625952256\"},{\"url\":\"http://sh4869.hatenablog.com/entry/2015/12/14/231548\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/676416862620540928\"},{\"url\":\"http://www.adventar.org/calendars/1030\",\"title\":\"百合 Advent Calendar 2015 - Adventar\",\"tweet_url\":\"https://twitter.com/statues/673879928161484800\"},{\"url\":\"https://github.com/sh4869/csv_code_generator.dart\",\"title\":\"GitHub - sh4869/csv_code_generator.dart: csv literal code generator for Dart using source_gen - EXPERIMENTAL\",\"tweet_url\":\"https://twitter.com/statues/673123063349706752\"},{\"url\":\"http://live.b-ch.com/imas\",\"title\":\"アイドルマスター | 無料ライブ配信［みんなでストリームγ版］\",\"tweet_url\":\"https://twitter.com/statues/672801483901931520\"},{\"url\":\"http://www.pixiv.net/novel/show.php?id=3201023\",\"title\":\"イラストコミュニケーションサービス[pixiv]\",\"tweet_url\":\"https://twitter.com/statues/668827827337203712\"},{\"url\":\"http://rousseauchan.hatenablog.jp/entry/2015/11/21/212153\",\"title\":\"親父の遺したストロベリー・パニック - 句点の音色\",\"tweet_url\":\"https://twitter.com/statues/668054666442215424\"},{\"url\":\"https://twitter.com/search?f=tweets&vertical=default&q=to%3Aame_yame&src=typd\",\"title\":\"to:ame_yame - Twitter検索\",\"tweet_url\":\"https://twitter.com/statues/667756310985768960\"},{\"url\":\"http://blog.livedoor.jp/south_kanto_dm/archives/52103433.html\",\"title\":\"南関東開発機構 : 同人誌『exeファイルをダブルクリックすると何が起こるか』を公開しました\",\"tweet_url\":\"https://twitter.com/statues/667751980614332416\"},{\"url\":\"https://github.com/blog/2085-a-new-look-for-repositories\",\"title\":\"A new look for repositories · GitHub\",\"tweet_url\":\"https://twitter.com/statues/667616111295238144\"},{\"url\":\"http://sasami.asia/\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/667330147243036672\"},{\"url\":\"http://www.adventar.org/calendars/1030\",\"title\":\"百合 Advent Calendar 2015 - Adventar\",\"tweet_url\":\"https://twitter.com/statues/666574405271552000\"},{\"url\":\"http://www.adventar.org/calendars/1030\",\"title\":\"百合 Advent Calendar 2015 - Adventar\",\"tweet_url\":\"https://twitter.com/statues/665816643684077569\"},{\"url\":\"https://miteru.yosida95.com/authorize?oauth_token=ltZd-wAAAAAAIBNIAAABUPvAvgw&oauth_verifier=FrqAuLqTkdNkcTPFZD3WGwaIEoGotIFL\",\"title\":\"見てるなう(仮) - 今見ているウェブページをTwitterで素早く共有\",\"tweet_url\":\"https://twitter.com/statues/664788057657180160\"},{\"url\":\"http://dartlang-slack.herokuapp.com/\",\"title\":\"Join us on Slack!\",\"tweet_url\":\"https://twitter.com/statues/657894889695260672\"},{\"url\":\"http://www.miraiyasu.com/\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/657624601296437248\"},{\"url\":\"http://amateras.wsd.kutc.kansai-u.ac.jp/?p=3158\",\"title\":\"松下ゼミを志望される方へのメッセージ (2016年版) - 松下研究室 | 関西大学総合情報学部\",\"tweet_url\":\"https://twitter.com/statues/654667986532339712\"},{\"url\":\"http://buzz-plus.com/article/2015/10/12/softcream/\",\"title\":\"【激怒】ミニストップのソフトクリームを絶賛する彼氏に彼女がブチギレ「女性の尊厳を馬鹿にされた」 ｜ バズプラスニュース Buzz+\",\"tweet_url\":\"https://twitter.com/statues/653950830110879744\"},{\"url\":\"http://qiita.com/Akai_Banana/items/b328fe0116d248127a36\",\"title\":\"2015年センター試験数学IAを全てプログラム(Python)で解く - Qiita\",\"tweet_url\":\"https://twitter.com/statues/653855103309381632\"},{\"url\":\"http://kibi-dango.jp/blog/?p=1668\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/647735425201602560\"},{\"url\":\"http://www.j832.com/\",\"title\":\"J832.com - Kevin Moore\",\"tweet_url\":\"https://twitter.com/statues/643476350653698049\"},{\"url\":\"http://www.shonenjump.com/j/2015/09/150904news01.html\",\"title\":\"ご注意ください／漫画家・久保帯人先生の肖像について｜集英社『週刊少年ジャンプ』公式サイト\",\"tweet_url\":\"https://twitter.com/statues/639864171434127360\"},{\"url\":\"https://www.melonbooks.co.jp/detail/detail.php?product_id=135755\",\"title\":\"駆け足、秒速8キロメートル（Azurite）の通販・購入はメロンブックス | メロンブックス\",\"tweet_url\":\"https://twitter.com/statues/632751638806028288\"},{\"url\":\"http://b.hatena.ne.jp/entry/takuya-1st.hatenablog.jp/entry/2015/08/08/000827\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/630283136195129345\"},{\"url\":\"http://crystal.connpass.com/event/17496/\",\"title\":\"東京 Crystal 勉強会 #1 in 五反田 - connpass\",\"tweet_url\":\"https://twitter.com/statues/624234352235298816\"},{\"url\":\"https://www.youtube.com/watch?v=g6IpuwakTco&feature=youtu.be\",\"title\":\"Team#5749 TokyoTechnicalSamurai FRCへの挑戦 - YouTube\",\"tweet_url\":\"https://twitter.com/statues/623889545893785600\"},{\"url\":\"http://tokyotsamurai.blogspot.jp/2015/07/blog-post_19.html\",\"title\":\"Tokyo Technical Samurai Blog: 新たなる挑戦\",\"tweet_url\":\"https://twitter.com/statues/623889365073133569\"},{\"url\":\"http://tokyotechnicalsamurai.ml/\",\"title\":\"tokyotechnicalsamurai.ml\",\"tweet_url\":\"https://twitter.com/statues/623887862887362564\"},{\"url\":\"https://github.com/god\",\"title\":\"god (God) · GitHub\",\"tweet_url\":\"https://twitter.com/statues/622661247540957184\"},{\"url\":\"http://anond.hatelabo.jp/20150717110926\",\"title\":\"まだ台風に狼狽してんの？\",\"tweet_url\":\"https://twitter.com/statues/621999515311017984\"},{\"url\":\"http://politas.jp/features/3/article/231\",\"title\":\"【総選挙2014】最高裁国民審査は「わからなかったら×（バツ）」で（江川紹子）｜ポリタス  「総選挙」から考える日本の未来  \",\"tweet_url\":\"https://twitter.com/statues/621282596639477760\"},{\"url\":\"http://consti.web.fc2.com/16shou4.html\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/621278877151686656\"},{\"url\":\"http://b.hatena.ne.jp/entry/localhost:8000/\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/620989420942946308\"},{\"url\":\"https://git-scm.com/book/en/v2/Git-Branching-Remote-Branches#Deleting-Remote-Branches\",\"title\":\"Git - Remote Branches\",\"tweet_url\":\"https://twitter.com/statues/620918323455262720\"},{\"url\":\"https://github.com/sh4869/twitter.dart\",\"title\":\"GitHub - sh4869/twitter.dart: Twitter API Library in Dart\",\"tweet_url\":\"https://twitter.com/statues/620239459724857344\"},{\"url\":\"http://www.amazon.co.jp/ELECOM-Bluetooth%E3%83%9E%E3%82%A6%E3%82%B9-IR%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC-3%E3%83%9C%E3%82%BF%E3%83%B3-M-BT12BRBK/dp/B00G9NII38/ref=sr_1_6?s=computers&ie=UTF8&qid=1436009436&sr=1-6&keywords=%E3%83%9E%E3%82%A6%E3%82%B9++bluetooth\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/617295102671622144\"},{\"url\":\"http://d.hatena.ne.jp/p_shirokuma/20150702/p1\",\"title\":\"深夜のインターネットは「こころの回復」に適していない - シロクマの屑籠\",\"tweet_url\":\"https://twitter.com/statues/616614592068739077\"},{\"url\":\"http://www.nicovideo.jp/watch/sm26587237\",\"title\":\"【輪るピングドラム】ノルニル (QL ルシッドドリーミング Mashup) by QubicLoop 音楽/動画 - ニコニコ動画\",\"tweet_url\":\"https://twitter.com/statues/616211176884535297\"},{\"url\":\"http://i7szz.bigprizezone.6673.info/?sov=265069507&hid=hzlvhpntvlnllhjr&redid=6201&gsid=22&id=XNSX.-r6201-t22\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/615113566480306176\"},{\"url\":\"http://www.geocities.jp/deepbreathinghp/katarienu.htm\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/614082724647669760\"},{\"url\":\"https://github.com/seaneagan/den/issues/39\",\"title\":\"Weird result of `den spec`  · Issue #39 · seaneagan/den · GitHub\",\"tweet_url\":\"https://twitter.com/statues/607416307860963329\"},{\"url\":\"https://gist.github.com/sh4869/9a35be4eab77b310eee5\",\"title\":\"dartlang-benchmarking.md · GitHub\",\"tweet_url\":\"https://twitter.com/statues/607151334911901696\"},{\"url\":\"-Fedora-and-Amazon-Linux-AMI\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/607075238082277376\"},{\"url\":\"http://makenowjust.hatenablog.com/entry/2015/06/06/114337\",\"title\":\"僕はDartをビルドしなければいけない　弱みを握られている—— - セカイ内存在証明\",\"tweet_url\":\"https://twitter.com/statues/607037552843853825\"},{\"url\":\"https://github.com/CatalystITLabs/presentation.dart\",\"title\":\"GitHub - CatalystITLabs/presentation.dart: Presentation framework using css3 3d animations in dart\",\"tweet_url\":\"https://twitter.com/statues/606422559425359872\"},{\"url\":\"http://xn--vqq918a.jp/\",\"title\":\"今年は平成何年？\",\"tweet_url\":\"https://twitter.com/statues/603888666428051456\"},{\"url\":\"https://github.com/dart-lang/sdk\",\"title\":\"GitHub - dart-lang/sdk: The Dart SDK, including the VM, dart2js, core libraries, and more.\",\"tweet_url\":\"https://twitter.com/statues/603825125457174528\"},{\"url\":\"http://www.slideshare.net/tshiihara/docx-15805705\",\"title\":\"Docx 画像取り出し方\",\"tweet_url\":\"https://twitter.com/statues/602357902330892288\"},{\"url\":\"https://soundcloud.com/qubicloop/ql-dim-mashup\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/600716400764792833\"},{\"url\":\"http://death.co.jp/\",\"title\":\"株式会社 闇 ver.2\",\"tweet_url\":\"https://twitter.com/statues/600640177107644417\"},{\"url\":\"http://www.dell.com/support/article/us/en/19/SLN297287/JA\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/599175739338924032\"},{\"url\":\"http://www.amazon.co.jp/Art-Penguindrum-%E3%82%A2%E3%83%BC%E3%83%88-%E3%82%AA%E3%83%96-%E3%83%94%E3%83%B3%E3%82%B0%E3%83%89%E3%83%A9%E3%83%A0/dp/4344827430/ref=pd_sim_74_6?ie=UTF8&refRID=0SH3DR4GC3012GR6FJPR\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/597261197730156544\"},{\"url\":\"http://lets-business.com/work/free-paper/\",\"title\":\"儲かるフリーペーパーの作り方！思い立ってから出来るまでの8つの方法\",\"tweet_url\":\"https://twitter.com/statues/593392547961012224\"},{\"url\":\"https://github.com/dart-lang/fletch/wiki/Dart-Services-on-Android\",\"title\":\"Home · dartino/sdk Wiki · GitHub\",\"tweet_url\":\"https://twitter.com/statues/593094340735438848\"},{\"url\":\"http://definitelytyped.org/\",\"title\":\"Home | DefinitelyTyped\",\"tweet_url\":\"https://twitter.com/statues/590851193796067328\"},{\"url\":\"http://qiita.com/minamiyama1994/items/1b1b72d6c8a0aa61c6f6\",\"title\":\"templateの概念からTMPの応用まで - Qiita\",\"tweet_url\":\"https://twitter.com/statues/589812208617435136\"},{\"url\":\"http://qiita.com/MasayaMizuhara/items/0b78f7046aaa6d17bb66\",\"title\":\"shared_ptrとweak_ptrの使い分けわかる？ - Qiita\",\"tweet_url\":\"https://twitter.com/statues/589809082015428608\"},{\"url\":\"http://lugia.hatenablog.com/entry/20090215/1234662413\",\"title\":\"const_iterator - ルギア君の戯言\",\"tweet_url\":\"https://twitter.com/statues/589802810243305473\"},{\"url\":\"http://www.slideshare.net/chichimotsu/asio\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/589800189344362496\"},{\"url\":\"http://petitlyrics.com/lyrics/185698\",\"title\":\" ウィスキー&ウォッカ / ARB の歌詞 (185698) - プチリリ\",\"tweet_url\":\"https://twitter.com/statues/589024847591645185\"},{\"url\":\"http://stackoverflow.com/questions/22152162/npm-cannot-install-dependencies-attempt-to-unlock-something-which-hasnt-been/22207869#22207869\",\"title\":\"node.js - NPM cannot install dependencies - Attempt to unlock something which hasn&#39;t been locked - Stack Overflow\",\"tweet_url\":\"https://twitter.com/statues/588370433667309569\"},{\"url\":\"http://www.comman.co.jp/gitlab-of-character-is-raccoon-dog/\",\"title\":\"あのキャラ！GitLabの怖すぎるマスコットの正体は、タヌキだった | 株式会社カンマン\",\"tweet_url\":\"https://twitter.com/statues/588342918080921600\"},{\"url\":\"http://www.comman.co.jp/gitlab-of-character-is-raccoon-dog/\",\"title\":\"あのキャラ！GitLabの怖すぎるマスコットの正体は、タヌキだった | 株式会社カンマン\",\"tweet_url\":\"https://twitter.com/statues/588309751387197440\"},{\"url\":\"https://github.com/xoxco/node-slack\",\"title\":\"GitHub - xoxco/node-slack: a nodejs module for sending and receiving messages from Slack\",\"tweet_url\":\"https://twitter.com/statues/588121728754167808\"},{\"url\":\"https://github.com/uyu-kickstart/nyanpass-bot\",\"title\":\"GitHub - uyu-kickstart/nyanpass-bot: Slack bot\",\"tweet_url\":\"https://twitter.com/statues/588042247180017665\"},{\"url\":\"http://askubuntu.com/questions/521706/error-adding-symbols-dso-missing-from-command-line-while-compiling-g13-driver\",\"title\":\"make - &quot;error adding symbols: DSO missing from command line&quot; while compiling g13-driver - Ask Ubuntu\",\"tweet_url\":\"https://twitter.com/statues/587660045988466688\"},{\"url\":\"https://github.com/kmuto/review\",\"title\":\"GitHub - kmuto/review: Re:VIEW is flexible document format/conversion system\",\"tweet_url\":\"https://twitter.com/statues/587259149248921601\"},{\"url\":\"http://live.nicovideo.jp/watch/lv217035334?ref=top&zroute=index\",\"title\":\"【TTS】国際高校生ロボコンFRC結果報告放送 - 2015/04/12 16:30開始 - ニコニコ生放送\",\"tweet_url\":\"https://twitter.com/statues/587158610850881536\"},{\"url\":\"http://tricknotes.hateblo.jp/entry/20120227/p1\",\"title\":\"WebSocket の動作確認に wscat が便利すぎる件 - tricknotesのぼうけんのしょ\",\"tweet_url\":\"https://twitter.com/statues/587102798833000450\"},{\"url\":\"https://nodejs.org/docs/latest/api/events.html#events_emitter_on_event_listener\",\"title\":\"Events | Node.js v7.1.0 Documentation\",\"tweet_url\":\"https://twitter.com/statues/587093660300214275\"},{\"url\":\"http://www.guns-project.jp/\",\"title\":\"TVアニメ「ガンスリンガー ストラトス」オフィシャルサイト\",\"tweet_url\":\"https://twitter.com/statues/586902735326326784\"},{\"url\":\"http://ja.wikipedia.org/wiki/YAGNI\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/586872189002985473\"},{\"url\":\"http://cpplover.blogspot.jp/2015/04/git10linus-torvals.html\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/586744987729072128\"},{\"url\":\"https://mhtdesign.net/order/category/businesscard.html\",\"title\":\"オンデマンド名刺印刷｜受付当日出荷！格安名刺印刷のマヒトデザイン\",\"tweet_url\":\"https://twitter.com/statues/585439754205802496\"},{\"url\":\"http://kaguya.hateblo.jp/entry/2015/04/04/233934\",\"title\":\"高専進学は中学生にとっていい選択肢なのか考える - 月面リストカット\",\"tweet_url\":\"https://twitter.com/statues/585410729827700736\"},{\"url\":\"http://kmc.hatenablog.jp/entry/2015/04/07/202030\",\"title\":\"エイプリルフールで用いた知見・技術・隠し機能を発表します！！！！！！ - KMC活動ブログ\",\"tweet_url\":\"https://twitter.com/statues/585407045383262208\"},{\"url\":\"http://doc.gitlab.com/ce/api/milestones.html\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/584907730126675969\"},{\"url\":\"http://news.goo.ne.jp/article/sankei/nation/sankei-wst1504020016.html\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/584856515745447936\"},{\"url\":\"https://github.com/jhauswald/sirius\",\"title\":\"GitHub - jhauswald/lucida: Speech and Vision Based Intelligent Personal Assistant\",\"tweet_url\":\"https://twitter.com/statues/584846594593296384\"},{\"url\":\"https://github.com/latte0/dfasdfa\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/584845741509648385\"},{\"url\":\"http://ja.wikipedia.org/wiki/%E6%A9%8B%E6%9C%AC%E7%94%B1%E9%A6%99%E5%88%A9\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/584711909888270336\"},{\"url\":\"http://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1147074011\",\"title\":\"核融合炉に飛び込んだらどうなりますか？ - 「炉... - 物理学 | Yahoo!知恵袋\",\"tweet_url\":\"https://twitter.com/statues/584211577017995266\"},{\"url\":\"https://github.com/wjwwood/serial\",\"title\":\"GitHub - wjwwood/serial: Cross-platform, Serial Port library written in C++\",\"tweet_url\":\"https://twitter.com/statues/584178059474964480\"},{\"url\":\"http://www.tamiya.com/japan/mini4wd/\",\"title\":\"ミニ四駆・トップページ\",\"tweet_url\":\"https://twitter.com/statues/583932458120318976\"},{\"url\":\"http://www.nicovideo.jp/watch/1427424802\",\"title\":\"アイドルマスター シンデレラガールズ　第11話 アニメ/動画 - ニコニコ動画\",\"tweet_url\":\"https://twitter.com/statues/583907308721176576\"},{\"url\":\"http://ymrl.hatenablog.com/entry/20110605/1307214258\",\"title\":\"震災と、「眠りつづけて死ぬ」のこれまでと、これからの話 - The Internet...\",\"tweet_url\":\"https://twitter.com/statues/583893668769071104\"},{\"url\":\"http://www.qt.io/qtjapansummit2015/\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/583603493216231425\"},{\"url\":\"https://github.com/the-blue-alliance/the-blue-alliance\",\"title\":\"GitHub - the-blue-alliance/the-blue-alliance: A webapp for accessing information about the FIRST Robotics Competition.\",\"tweet_url\":\"https://twitter.com/statues/583601738738896896\"},{\"url\":\"https://status.github.com/messages\",\"title\":\"GitHub System Status\",\"tweet_url\":\"https://twitter.com/statues/582452974925975552\"},{\"url\":\"http://news.dartlang.org/2015/03/dart-for-entire-web.html\",\"title\":\"Dart News &amp; Updates: Dart for the Entire Web\",\"tweet_url\":\"https://twitter.com/statues/580890849803825152\"},{\"url\":\"http://news.dartlang.org/\",\"title\":\"Dart News &amp; Updates\",\"tweet_url\":\"https://twitter.com/statues/580890801850355712\"},{\"url\":\"http://ja.wikipedia.org/wiki/Wi-Fi_Protected_Setup\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/579813464324988929\"},{\"url\":\"http://unicus.jp/skmk/archives/771\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/579275758901669889\"},{\"url\":\"http://headlines.yahoo.co.jp/hl?a=20150224-00000050-dal-ent\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/578196627342512128\"},{\"url\":\"http://qiita.com/naoya@github/items/a4d54f5ab008c3fa4055\",\"title\":\"React 雑感 - Qiita\",\"tweet_url\":\"https://twitter.com/statues/578159402223476736\"},{\"url\":\"http://tocos-wireless.com/jp/products/ToCoNet/TWESDK.html\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/578072151778988032\"},{\"url\":\"https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest_in_IE6\",\"title\":\"Using XMLHttpRequest in IE6 - Web APIs | MDN\",\"tweet_url\":\"https://twitter.com/statues/577709993262075904\"},{\"url\":\"https://cybozudev.zendesk.com/hc/ja/articles/201850320-JavaScript%E3%81%A7%E3%82%BB%E3%82%AD%E3%83%A5%E3%82%A2%E3%81%AA%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%92%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E6%B0%97%E3%82%92%E3%81%A4%E3%81%91%E3%82%8B%E3%81%93%E3%81%A8\",\"title\":\"JavaScriptでセキュアなコーディングをするために気をつけること &ndash; cybozu developer network\",\"tweet_url\":\"https://twitter.com/statues/577497487348350976\"},{\"url\":\"https://developer.mozilla.org/ja/docs/XMLHttpRequest/Synchronous_and_Asynchronous_Requests\",\"title\":\"同期および非同期リクエスト - Web API インターフェイス | MDN\",\"tweet_url\":\"https://twitter.com/statues/577497273510187009\"},{\"url\":\"http://support.lenovo.com/jp/ja/documents/ht079216\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/577490506747240449\"},{\"url\":\"http://gete.blog.shinobi.jp/Entry/41/\",\"title\":\"ふぁいんどぱわー　調べる人の冒険！（チラシの裏よりチョット上） PHP のNon Thread Safe とThread Safe の違い\",\"tweet_url\":\"https://twitter.com/statues/577175272039915520\"},{\"url\":\"http://qiita.com/tanakh/items/a1b4705fb58ef3c89800\",\"title\":\"開発者がSurfacePro3を買ったらまずやること - Qiita\",\"tweet_url\":\"https://twitter.com/statues/577158451425513472\"},{\"url\":\"https://chocolatey.org/packages/php\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/577154403720765440\"},{\"url\":\"https://support.google.com/nexus/answer/4596836?hl=ja\",\"title\":\"Pixel スマートフォンまたは Nexus 端末を出荷時の設定にリセットする - Nexus ヘルプ\",\"tweet_url\":\"https://twitter.com/statues/576975499584348160\"},{\"url\":\"http://www.weice.in/\",\"title\":\"LNMP一键安装包 by Licess\",\"tweet_url\":\"https://twitter.com/statues/576701023021985792\"},{\"url\":\"http://weice.in/ivory/typography.html\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/576633664768884736\"},{\"url\":\"http://semantic-ui.com/elements/image.html#sizes\",\"title\":\"Image | Semantic UI\",\"tweet_url\":\"https://twitter.com/statues/576613569451696128\"},{\"url\":\"http://qiita.com/shimoju/items/394818b4989b94680aaf\",\"title\":\"Windowsでgem installするとSSLエラーが出る場合の解決策 - Qiita\",\"tweet_url\":\"https://twitter.com/statues/576093205516541952\"},{\"url\":\"https://gist.github.com/luislavena/f064211759ee0f806c88\",\"title\":\"Workaround RubyGems&#39; SSL errors on Ruby for Windows (RubyInstaller) · GitHub\",\"tweet_url\":\"https://twitter.com/statues/576092713038163968\"},{\"url\":\"https://github.com/aozorabunko/aozorabunko/tree/master/cards\",\"title\":\"aozorabunko/cards at master · aozorabunko/aozorabunko · GitHub\",\"tweet_url\":\"https://twitter.com/statues/576091286727364608\"},{\"url\":\"https://github.com/aozorabunko/aozorabunko\",\"title\":\"GitHub - aozorabunko/aozorabunko\",\"tweet_url\":\"https://twitter.com/statues/576086642357743616\"},{\"url\":\"https://sites.google.com/site/cloverplusrose/tex/ubuntu12-04-texlive2011/slashbox-sty-wen-ti\",\"title\":\"slashbox.sty問題 - cloverrose\",\"tweet_url\":\"https://twitter.com/statues/576079180120506368\"},{\"url\":\"http://sky-y.github.io/site-pandoc-jp/users-guide/\",\"title\":\"Pandoc ユーザーズガイド 日本語版 - Japanese Pandoc User's Association\",\"tweet_url\":\"https://twitter.com/statues/576028811029917696\"},{\"url\":\"http://qiita.com/make_now_just/items/bafe27793334757af552\",\"title\":\"Quine Advent Calendar 2014 Day 100: （ほぼ）一人Advent Calendarを100日続けて学んだこと - Qiita\",\"tweet_url\":\"https://twitter.com/statues/575989044871491584\"},{\"url\":\"http://iiniku.com/IT/windows8/win8-ideapadyoga13-13.html\",\"title\":\"Yoga13やThinkPADのファンクションキーを逆にする方法\",\"tweet_url\":\"https://twitter.com/statues/575983685670825985\"},{\"url\":\"https://github.com/MarlinFirmware/Marlin\",\"title\":\"GitHub - MarlinFirmware/Marlin: Optimized firmware for RepRap 3D printers based on the Arduino platform.\",\"tweet_url\":\"https://twitter.com/statues/575929627522134016\"},{\"url\":\"http://ja.wikipedia.org/wiki/%E5%88%87%E8%85%B9\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/575230495484612608\"},{\"url\":\"http://gdcproject.org/downloads\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/575183279537565697\"},{\"url\":\"http://yurikuma.jp/chara.html\",\"title\":\"TVアニメ「ユリ熊嵐」公式サイト\",\"tweet_url\":\"https://twitter.com/statues/574961911583760385\"},{\"url\":\"http://www.textdrop.net/google-styleguide-ja/cppguide.xml\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/574956103433220096\"},{\"url\":\"http://www.lastfm.jp/home\",\"title\":\"\",\"tweet_url\":\"https://twitter.com/statues/574949788073881600\"}]"
+[
+  {
+    "tweet_url": "https://twitter.com/statues/797705366842667009",
+    "title": "TypeScript 2.1.1 変更点 - Qiita",
+    "url": "http://qiita.com/vvakame/items/305749d3d6dc6bf877c6"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/797374702285037569",
+    "title": "WPA2-enterprise + PEAP · Issue #1032 · esp8266/Arduino · GitHub",
+    "url": "https://github.com/esp8266/Arduino/issues/1032"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/797046025261154305",
+    "title": "GitHub - github/game-off-2016: GitHub&#39;s month-long game jam November 2016",
+    "url": "https://github.com/github/game-off-2016"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/796922211613347840",
+    "title": "",
+    "url": "https://cloud.google.com/appengine/docs/go/quickstart"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/796919969137115136",
+    "title": "",
+    "url": "https://cloud.google.com/appengine/docs/go/tools/uploadinganapp"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/796904382834962432",
+    "title": "",
+    "url": "http://b.hatena.ne.jp/sh4869/bookmark"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/796767734033883136",
+    "title": "sh4869 (Nobuhiro Kasai) · GitHub",
+    "url": "https://github.com/sh4869"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/796204611568685057",
+    "title": "2進数リテラル - cpprefjp C++日本語リファレンス",
+    "url": "http://cpprefjp.github.io/lang/cpp14/binary_literals.html"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/796030863251161089",
+    "title": "MSYS2 で PATH が引き継がれない",
+    "url": "http://chirimenmonster.github.io/2016/05/09/msys2-path.html"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/796019970467450880",
+    "title": "ソースコードの無思慮なコピペを生むGithubというアーキテクチャについて - Qiita",
+    "url": "http://qiita.com/shyouhei/items/5855731bc6b901922641"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/795846708961779712",
+    "title": "2016-11-08のJS: sitespeed.io 4.0、webpack 2 beta入門、JavaScriptスタックチュートリアル - JSer.info",
+    "url": "https://jser.info/2016/11/08/sitespeed.io-4.0-webpack-2-beta-javascript/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/795846443764359168",
+    "title": "TypeScript 2.0: Read-Only Properties | Marius Schulz",
+    "url": "https://blog.mariusschulz.com/2016/10/31/typescript-2-0-read-only-properties"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/795789773071740929",
+    "title": "UbuntuにRをインストール - Qiita",
+    "url": "http://qiita.com/wonder_zone/items/c0cb4033c2a599b3d662"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/795789430703341568",
+    "title": "dart-sass/perf.md at master · sass/dart-sass · GitHub",
+    "url": "https://github.com/sass/dart-sass/blob/master/perf.md"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/795613541612912640",
+    "title": "老舗メディアが改善に取り組んでいる話 / ecnavi @phpcon2016 // Speaker Deck",
+    "url": "https://speakerdeck.com/dkkoma/ecnavi-at-phpcon2016"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/794728488481615876",
+    "title": "Big Sky :: MSVC の怖い話",
+    "url": "http://mattn.kaoriya.net/software/lang/c/20140630203144.htm"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/794539453112930304",
+    "title": "ブラウザにおける縦書き最新事情 - 縦書き実装の今 | CodeGrid",
+    "url": "https://app.codegrid.net/entry/vertical-script-1"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/794502666168647681",
+    "title": "Bash on Ubuntu on Windows - Release Notes",
+    "url": "https://msdn.microsoft.com/en-us/commandline/wsl/release_notes#build-14951"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/794443908583333888",
+    "title": "GitHub - naptha/tesseract.js: Pure Javascript OCR for 62 Languages 📖🎉🖥",
+    "url": "https://github.com/naptha/tesseract.js"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/794183825681039360",
+    "title": "Gamepad class - dart:html library - Dart API",
+    "url": "https://api.dartlang.org/stable/1.10.1/dart-html/Gamepad-class.html"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/793709955320733696",
+    "title": "Reactを使ったプロダクトのパフォーマンスを改善した話 | GMOメディア エンジニアブログ",
+    "url": "http://tech.gmo-media.jp/post/141458071484/react-perf-tuning"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/793518921168986112",
+    "title": "webpack -p outputs: ERROR in bundle.js from UglifyJs Unexpected token: name (login) [./login.es6:2,4] · Issue #3 · joeeames/WebpackFundamentalsCourse · GitHub",
+    "url": "https://github.com/joeeames/WebpackFundamentalsCourse/issues/3"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/793390589408530432",
+    "title": "Reactの再レンダリングをなるべく減らす - Aqutras Members&#39; Blog",
+    "url": "http://blog.aqutras.com/entry/2016/06/23/210000"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/793315423315910656",
+    "title": "VR元年に異議あり　　[世界VR史] | mine",
+    "url": "https://mine.place/page/210095ad-21ce-48d5-94ac-02ff54533d39"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/793306959378198528",
+    "title": "GitHub - github/hub: hub helps you win at git.",
+    "url": "https://github.com/github/hub"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/792613695339634688",
+    "title": "reactjs - allow typescript compiler to call setState on only one react state property - Stack Overflow",
+    "url": "http://stackoverflow.com/questions/37300933/allow-typescript-compiler-to-call-setstate-on-only-one-react-state-property"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/792566147367350272",
+    "title": "JavaScriptで正規表現を複数回実行する際の注意点 - Qiita",
+    "url": "http://qiita.com/nanocloudx/items/079685599273f3805f77"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/792184915068526592",
+    "title": "ご自分のVinesの死を拒否したい人のためにGiphyがそれらをGIFに変換してくれる  |  TechCrunch Japan",
+    "url": "http://jp.techcrunch.com/2016/10/29/20161028let-your-vines-live-on-forever-with-this-giphy-conversion-tool/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/791672021461590016",
+    "title": "Rubular: a Ruby regular expression editor and tester",
+    "url": "http://www.rubular.com/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/791263959609331713",
+    "title": "新しいマシンやスマフォで Slack の各種チームに入るのが面倒くさい！！！という時 - Qiita",
+    "url": "http://qiita.com/hotchpotch/items/93396926775251b97065"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/791258348611964929",
+    "title": "商業BLで潤滑剤として使用されているものを使うとマジで滑りやすくなるのか？ - 記録",
+    "url": "http://sixhalf.hatenablog.com/entry/2016/02/29/233654"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/791159270033203200",
+    "title": "Context - React",
+    "url": "https://facebook.github.io/react/docs/context.html"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/791073096782323712",
+    "title": "Google Maps APIのズームレベルまとめ - Qiita",
+    "url": "http://qiita.com/SnowMonkey/items/795779913be692c12a0b"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/791066230002110465",
+    "title": "TypeScript1.6 + React 書いてみてハマったポイントとか - Qiita",
+    "url": "http://qiita.com/Linda_pp/items/ff0feac7e34a65657b3c"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/790443765869649920",
+    "title": "Object.defineProperty() - JavaScript | MDN",
+    "url": "https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/790442772129996801",
+    "title": " Object.defineProperty()について調べた - yutaponのブログ",
+    "url": "http://yutapon.hatenablog.com/entry/2014/05/20/102526"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/790440815034105856",
+    "title": "イケてる環境のWEB系の労働生産性がイケてないSIerのたった三割しかない件 - プロマネブログ",
+    "url": "http://getlife.hateblo.jp/entry/2016/10/24/045343"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/789736531279831041",
+    "title": "Bash on Ubuntu on Windows + XmingによるGUI - Qiita",
+    "url": "http://qiita.com/makky0620/items/e31edc90f22340d791ff"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/789403480238632960",
+    "title": "概要 | BALMUDA The Pot | バルミューダ",
+    "url": "https://www.balmuda.com/jp/pot/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/789384480003805184",
+    "title": "Upgrade Insecure Requests",
+    "url": "https://w3c.github.io/webappsec-upgrade-insecure-requests/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/789337431287877632",
+    "title": "",
+    "url": "http://headlines.yahoo.co.jp/hl?a=20161021-00000061-mai-soci"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/789330237620232193",
+    "title": "EU: IPアドレスも個人情報とする新判断・承諾なしでのアクセスログの保管は違法に - BusinessNewsline",
+    "url": "http://business.newsln.jp/news/201610201826390000.html"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/788780126100033536",
+    "title": "",
+    "url": "https://gyazo.com/aa5bb4c954469f09e35b91d4e5ca766c"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/788674353961381888",
+    "title": "背筋トレーニング日記: STM32で割り込みを使ったシリアル通信をする",
+    "url": "http://mohammedari.blogspot.jp/2013/11/stm32.html"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/788224153061122048",
+    "title": "モダン日本語フォント指定 // Speaker Deck",
+    "url": "https://speakerdeck.com/tacamy/modanri-ben-yu-huontozhi-ding"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/788038882319138816",
+    "title": "Dart News &amp; Updates: Good-bye symlinks",
+    "url": "http://news.dartlang.org/2016/10/good-bye-symlinks.html"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/787910870395342852",
+    "title": "Material-UI",
+    "url": "http://www.material-ui.com/#/components/paper"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/787878123681394689",
+    "title": "未定義の動作",
+    "url": "http://www.c-lang.org/detail/undefined_behavior.html"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/787876873564856320",
+    "title": "",
+    "url": "http://www.nerimadors.or.jp/~kando/kuno_zemi/ModernCompilerImplementation/06_2_Tiger_Frame/06_Activation_Records.html"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/787512262927855617",
+    "title": "",
+    "url": "https://en.oxforddictionaries.com/definition/virtual"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/787181460025331712",
+    "title": "GitHub - dart-lang/js_facade_gen: Generates package:js Javascript interop facades for arbitrary TypeScript libraries",
+    "url": "https://github.com/dart-lang/js_facade_gen"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/786878896104886273",
+    "title": "C++: constructor initializer for arrays - Stack Overflow",
+    "url": "http://stackoverflow.com/questions/2409819/c-constructor-initializer-for-arrays"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/786860341040861184",
+    "title": "JavaScriptの「this」は「4種類」？？ - Qiita",
+    "url": "http://qiita.com/takeharu/items/9935ce476a17d6258e27"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/786794202579345408",
+    "title": "Shell command conflict with Hadoop Yarn · Issue #673 · yarnpkg/yarn · GitHub",
+    "url": "https://github.com/yarnpkg/yarn/issues/673"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/786785215511351296",
+    "title": "",
+    "url": "http://www2.ipcku.kansai-u.ac.jp/~saitoh/parts/lectures/staticelectricity.pdf"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/786154901092995072",
+    "title": "",
+    "url": "https://my.st.com/public/STe2ecommunities/mcu/Lists/cortex_mx_stm32/Flat.aspx?RootFolder=https%3a%2f%2fmy%2est%2ecom%2fpublic%2fSTe2ecommunities%2fmcu%2fLists%2fcortex%5fmx%5fstm32%2fSystick%20Delay%20functions&FolderCTID=0x01200200770978C69A1141439FE559EB459D7580009C4E14902C3CDE46A77F0FFD06506F5B&currentviews=2235"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/786084355278041088",
+    "title": "GitHub - reactjs/react-router-tutorial",
+    "url": "https://github.com/reactjs/react-router-tutorial"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/786041135797968897",
+    "title": "Yarnファーストインプレッション - Qiita",
+    "url": "http://qiita.com/mizchi/items/1002fde0de10e7c54fb2"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/786013811975139328",
+    "title": "日本語対応のLaTexで自動字下げされない件(＋字下げしない方法) - Qiita",
+    "url": "http://qiita.com/fantm21/items/9e4512d3af605dae1734"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/786012508444164096",
+    "title": "Node学園祭2016を開催します。 #nodefest - from scratch",
+    "url": "http://yosuke-furukawa.hatenablog.com/entry/2016/10/12/091349"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/785935839654129664",
+    "title": "Dart News &amp; Updates: What&#8217;s your favorite Dart feature?",
+    "url": "http://news.dartlang.org/2016/10/whats-your-favorite-dart-feature.html"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/785915295583961088",
+    "title": "GitHub - yarnpkg/yarn: 📦🐈 Fast, reliable, and secure dependency management.",
+    "url": "https://github.com/yarnpkg/yarn"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/784962780117860352",
+    "title": "GitHub - dbankier/vscode-gist: vscode extension for quick gists",
+    "url": "https://github.com/dbankier/vscode-gist"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/784530521669992449",
+    "title": "Big Sky :: Bash on Ubuntu on Windows の最高の端末環境を教えてやるからちょっと来い。",
+    "url": "http://mattn.kaoriya.net/software/bow/20160824234928.htm"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/784424178820591616",
+    "title": "clock - STM32f2xx could not work with maximum frequency - Electrical Engineering Stack Exchange",
+    "url": "http://electronics.stackexchange.com/questions/74805/stm32f2xx-could-not-work-with-maximum-frequency"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/784322764622602240",
+    "title": "",
+    "url": "http://palantir.github.io/tslint/rules/no-console/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/784268072748146688",
+    "title": "",
+    "url": "https://note.mu/sub/n/na2192a9c5f2e"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/784255956678905859",
+    "title": "1.50 Milestone · GitHub",
+    "url": "https://github.com/dart-lang/sdk/milestone/44"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/782870046771023872",
+    "title": "optimize",
+    "url": "https://msdn.microsoft.com/en-us/library/chh3fb0k.aspx"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/781704025540407296",
+    "title": "Optimize Options - Using the GNU Compiler Collection (GCC)",
+    "url": "http://doc.ironwoodlabs.com/arm-arm-none-eabi/html/gcc/Optimize-Options.html"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/781689137950695424",
+    "title": "Array.prototype.filter() - JavaScript | MDN",
+    "url": "https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Array/filter"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/781053661807992832",
+    "title": "10分で実装するFlux",
+    "url": "http://azu.github.io/slide/react-meetup/flux.html"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/780300097561034752",
+    "title": "Rename files and folders to match their module definitions · DefinitelyTyped/DefinitelyTyped@4f7524f · GitHub",
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/commit/4f7524fc65c0d1389af81a83a95dfe1ea59ad5e9"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/780273073647869952",
+    "title": "GitHub - FlorianKoerner/nodegit-typescript-definition: TypeScript Definition for nodegit",
+    "url": "https://github.com/FlorianKoerner/nodegit-typescript-definition"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/779874994230743040",
+    "title": "",
+    "url": "https://www.amazon.co.jp/NOIR-%E3%83%8E%E3%83%AF%E3%83%BC%E3%83%AB-%E3%82%B3%E3%83%B3%E3%83%97%E3%83%AA%E3%83%BC%E3%83%88-DVD-BOX-%E5%85%A826%E8%A9%B1/dp/B00361UN3Y/ref=sr_1_12?ie=UTF8&qid=1474771633&sr=8-12&keywords=%E3%83%8E%E3%83%AF%E3%83%BC%E3%83%AB"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/779874362945970177",
+    "title": "",
+    "url": "http://66.media.tumblr.com/055c6dd86a7b3370e26cfa2add5b05c8/tumblr_o18zalwtKI1sxlmtzo1_400.gif"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/779872496988278784",
+    "title": "本の虫: レールに沿わない人生を送っていたら&#12289;未だにレールに乗れていない人間のお話",
+    "url": "https://cpplover.blogspot.jp/2016/09/blog-post.html"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/779696572288249857",
+    "title": "GitHub - c9/node-bitbucket: node.js library to access the Bitbucket API",
+    "url": "https://github.com/c9/node-bitbucket"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/779692667038896129",
+    "title": "CC0について ― “いかなる権利も保有しない” &laquo;  Science Commons – サイエンス・コモンズ翻訳プロジェクト",
+    "url": "http://sciencecommons.jp/cc0/about"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/779246706361720832",
+    "title": "Nianticの求人から推測する『Pokémon GO(ポケモンGO)』のサーバ構成 - Qiita",
+    "url": "http://qiita.com/shibacow/items/1ac6f65100252b78a707"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/779176709706829824",
+    "title": "",
+    "url": "https://www.reddit.com/r/FRC/comments/53zqkj/first_right_now_probably/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/779138182226976768",
+    "title": "What&#39;s new in TypeScript · Microsoft/TypeScript Wiki · GitHub",
+    "url": "https://github.com/Microsoft/TypeScript/wiki/What's-new-in-TypeScript#typescript-20"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/778994727643295744",
+    "title": "GitHub - Dart-Code/Dart-Code: Dart support for Visual Studio Code.",
+    "url": "https://github.com/Dart-Code/Dart-Code"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/778937213488812032",
+    "title": "GitHub - andlabs/libui: Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports.",
+    "url": "https://github.com/andlabs/libui"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/777505462186934273",
+    "title": "Fancy LaTeX chapter styles &#8211; texblog",
+    "url": "http://texblog.org/2012/07/03/fancy-latex-chapter-styles/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/777489605545254912",
+    "title": "",
+    "url": "https://amakan.net/products/166981"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/777159516152483840",
+    "title": "Visual Studio Code October 2016 1.7",
+    "url": "https://code.visualstudio.com/updates#vscode"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/776022682311663616",
+    "title": "Introducing Outlook&#039;s new and improved calendar on iOS and Android - Office Blogs",
+    "url": "https://blogs.office.com/2016/09/13/introducing-outlooks-new-and-improved-calendar-on-ios-and-android/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/775697124419776513",
+    "title": "Adblock Plus now sells ads - The Verge",
+    "url": "http://www.theverge.com/2016/9/13/12890050/adblock-plus-now-sells-ads"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/775147481692708866",
+    "title": "  IoTとはデバイスではなくエコシステムの話　 - WirelessWire News（ワイヤレスワイヤーニュース）",
+    "url": "https://wirelesswire.jp/2016/09/56424/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/775089349411037184",
+    "title": "",
+    "url": "http://embdev.net/topic/191474"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/775017112137928710",
+    "title": "これでほぼ完璧！　C++シングルトン基底クラスの決定版！ - 株式会社CFlatの明後日スタイルのブログ",
+    "url": "http://cflat-inc.hatenablog.com/entry/2014/03/04/214608"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/775016529498746881",
+    "title": "シングルトンのベターな実装方法 - Qiita",
+    "url": "http://qiita.com/kikuuuty/items/fcf5f7df2f0493c437dc"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/774847553724493824",
+    "title": "Pulse · github/hubot · GitHub",
+    "url": "https://github.com/github/hubot/pulse/monthly"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/774528499864391681",
+    "title": "css - Set opacity of background image without affecting child elements - Stack Overflow",
+    "url": "http://stackoverflow.com/questions/4997493/set-opacity-of-background-image-without-affecting-child-elements"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/774497163137077248",
+    "title": "",
+    "url": "https://www.htcvive.com/us/support/faqs/GUID-F58DDDBA-2214-49B1-92AE-12FF046C00EC.html"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/773875001434841088",
+    "title": "Join dartlang-users-jp on Slack!",
+    "url": "http://dartlang-users-jp-invite.herokuapp.com/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/773865882820894720",
+    "title": "【Unity】背景をSkyboxで描画する - テラシュールブログ",
+    "url": "http://tsubakit1.hateblo.jp/entry/2015/09/17/233000"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/773817818940706817",
+    "title": "",
+    "url": "http://getuikit.com/docs/description-list.html"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/773177259007938561",
+    "title": "スライドのページ番号を挿入または変更する - PowerPoint",
+    "url": "https://support.office.com/ja-jp/article/%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89%E3%81%AE%E3%83%9A%E3%83%BC%E3%82%B8%E7%95%AA%E5%8F%B7%E3%82%92%E6%8C%BF%E5%85%A5%E3%81%BE%E3%81%9F%E3%81%AF%E5%A4%89%E6%9B%B4%E3%81%99%E3%82%8B-8bad6395-a1f4-4af6-a360-0df412e510bf"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/773099963056205824",
+    "title": "Does Google Cardboard work at all without a Gyroscope? : GoogleCardboard",
+    "url": "https://www.reddit.com/r/GoogleCardboard/comments/30qu75/does_google_cardboard_work_at_all_without_a/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/772828806302224385",
+    "title": "配色｜伝わるデザイン",
+    "url": "http://tsutawarudesign.web.fc2.com/kakkoyoku5.html"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/772346863416516608",
+    "title": "GCCの警告を部分的にオフにする方法 - Boost Your Programming!",
+    "url": "http://kazegusuri.hateblo.jp/entry/20110820/1313863295"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/772035554577752064",
+    "title": "Git 2.10 has been released · GitHub",
+    "url": "https://github.com/blog/2242-git-2-10-has-been-released"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/771550157347311617",
+    "title": "",
+    "url": "https://www.amazon.co.jp/exec/obidos/ASIN/4774184101/kazoo04hatena-22/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/771309342901411841",
+    "title": "Leap Motion VR Mount + HTC Vive - YouTube",
+    "url": "https://www.youtube.com/watch?v=99Dib8GtgU8"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/771148273864151040",
+    "title": "スマフォ OS 戦争が終結した： それを示す１枚のチャート！ | Agile Cat --- in the cloud",
+    "url": "https://agilecatcloud.com/2016/08/30/smartphone-platform-market-share/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/770349068136517632",
+    "title": "",
+    "url": "https://pn2bs.herokuapp.com/pred?name=%E3%83%9D%E3%83%A4%E3%82%B7%E3%83%9F"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/770336009108062209",
+    "title": "Override variable in extending template · Issue #654 · pugjs/pug · GitHub",
+    "url": "https://github.com/pugjs/pug/issues/654"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/770303919759032320",
+    "title": "gulp-jade で JSON ファイルを変数に読み込む方法（gulp-pug v2 対応追記） - Qiita",
+    "url": "http://qiita.com/okamoai/items/224098a432e6e6df6da3"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/770176719017742336",
+    "title": "Default constructors - cppreference.com",
+    "url": "http://en.cppreference.com/w/cpp/language/default_constructor"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/769934577351524352",
+    "title": "Dart 1.19リリースノート  - Qiita",
+    "url": "http://qiita.com/sh4869/items/55d1ad5cd011113ed543"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/769913221520109568",
+    "title": "Type conversion - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Type_conversion#Type_promotion"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/769806642426679296",
+    "title": "Dart Developer Summit 2016",
+    "url": "https://events.dartlang.org/2016/summit/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/769765233627795456",
+    "title": "GitHub - sh4869/ChromeMarkdownLinkGenerator: A chrome extension that copy tab title and url for markdown.",
+    "url": "https://github.com/sh4869/ChromeMarkdownLinkGenerator"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/769511209800388608",
+    "title": "setTimeout(...,0)などの使いドコロ - Qiita",
+    "url": "http://qiita.com/jkr_2255/items/17693ab77beea71a871c"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/769473744804859904",
+    "title": "MutationObserver - Web API インターフェイス | MDN",
+    "url": "https://developer.mozilla.org/ja/docs/Web/API/MutationObserver"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/769462454531137536",
+    "title": "js-sequence-diagrams by bramp",
+    "url": "https://bramp.github.io/js-sequence-diagrams/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/769442716895830017",
+    "title": "gulp/delete-files-folder.md at master · gulpjs/gulp · GitHub",
+    "url": "https://github.com/gulpjs/gulp/blob/master/docs/recipes/delete-files-folder.md"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/768408033638555648",
+    "title": "SpineのJavaScriptランタイムがTypeScriptベースに正式移行 - Qiita",
+    "url": "http://qiita.com/harayoki/items/8f31239b1bfa24e08bf1"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/767679051980943361",
+    "title": "",
+    "url": "http://efcl.info/2015/09/14/textlint-rule-prh/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/767672896877584384",
+    "title": "C++11で、chronoライブラリを使って時間を計測する - minus9d&#39;s diary",
+    "url": "http://minus9d.hatenablog.com/entry/20130817/1376725888"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/767318726806876160",
+    "title": "環境省_環境省の組織（内部部局）",
+    "url": "http://www.env.go.jp/annai/soshiki/bukyoku.html"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/767318274124066816",
+    "title": "環境省_自然環境・生物多様性",
+    "url": "http://www.env.go.jp/nature/index.html"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/766659405496487936",
+    "title": "TypeScript の async/await をいますぐ使う - Qiita",
+    "url": "http://qiita.com/mizchi/items/f0866cf1c239f81e697a"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/766623145356689408",
+    "title": "Lenovo サポート",
+    "url": "https://support.lenovo.com/jp/ja/documents/pd029322"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/766490204060332032",
+    "title": "語彙力診断の点数分布 - Qiita",
+    "url": "http://qiita.com/kentskind/items/fc49952dda57c6a43260"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/766429507653734400",
+    "title": "GitHub - PowerShell/PowerShell: PowerShell for every system!",
+    "url": "https://github.com/PowerShell/PowerShell"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/766429173598400512",
+    "title": "angular2/ROADMAP.md at master · dart-lang/angular2 · GitHub",
+    "url": "https://github.com/dart-lang/angular2/blob/master/ROADMAP.md"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/765575469311807488",
+    "title": "池袋に電気部品屋ってありますか？？YAMADAとかビックカメラとか... - Yahoo!知恵袋",
+    "url": "http://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12110375082"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/765551783754145793",
+    "title": "",
+    "url": "http://boxil.jp/magazine/visitingcard_management/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/763795264087871490",
+    "title": "GitHub - petkaantonov/bluebird: Bluebird is a full featured promise library with unmatched performance.",
+    "url": "https://github.com/petkaantonov/bluebird"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/763794775350714368",
+    "title": "GitHub - tfoxy/chrome-promise: Promises for chrome JavaScript APIs which are used in extensions and apps.",
+    "url": "https://github.com/tfoxy/chrome-promise"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/763330276051202048",
+    "title": "HTTPSにまつわる怪しい伝説を検証する - Google I/O 2016のセッションから - Qiita",
+    "url": "http://qiita.com/takoratta/items/5bfe926a6421a14c1f94"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/762661540319199234",
+    "title": "Circlesearch",
+    "url": "https://circlesearch.paltee.net/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/762522854940299268",
+    "title": "",
+    "url": "http://blog.goo.ne.jp/jikisaim/e/f8761d7f369578d4676a7bcc46e0645b"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/762515704822181888",
+    "title": "The Problem of Thor Bridge",
+    "url": "http://memo.sh4869.net/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/762510188691660800",
+    "title": "エスカレーターで注意を促すコミケスタッフに関する一意見 「コミケのスタッフがコミケを台無しにしてる」 - Togetterまとめ",
+    "url": "http://togetter.com/li/1009515"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/762299573578502148",
+    "title": "O'Reilly Japan - Makerムーブメント宣言",
+    "url": "https://www.oreilly.co.jp/books/9784873116808/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/762288935984705536",
+    "title": "It's almost time to say goodbye - Sunrise",
+    "url": "http://blog.sunrise.am/post/144196642739/its-almost-time-to-say-goodbye"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/761669072530526210",
+    "title": "Unityで対象のポイントへ等速で動かす - テラシュールブログ",
+    "url": "http://tsubakit1.hateblo.jp/entry/2015/02/20/235021"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/761543866121990144",
+    "title": "あなたはCSSプロパティ&#8221;display&#8221;をどのぐらい知っているだろうか？ | デザイン | POSTD",
+    "url": "http://postd.cc/how-well-do-you-know-display/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/761480273934430208",
+    "title": "リスト - ウォークスルー Haskell",
+    "url": "http://walk.wgag.net/haskell/list.html"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/761225435577397248",
+    "title": "空を飛部",
+    "url": "http://sky.geocities.jp/choto_skyfly/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/760862614674997248",
+    "title": "KnobCon by 豆腐屋 - 創造とアソビの扉を、今ひらこう。",
+    "url": "https://tofu-ya.comike.moe/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/760701922101846016",
+    "title": "",
+    "url": "http://forum.unity3d.com/threads/how-to-load-an-array-with-jsonutility.375735/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/760670610896752640",
+    "title": "Unityの3D Textで文字が滲む問題の対策 - テラシュールブログ",
+    "url": "http://tsubakit1.hateblo.jp/entry/20140621/1403341855"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/760660287267545088",
+    "title": "namespace error with [Serializable] - Unity Answers",
+    "url": "http://answers.unity3d.com/questions/311653/namespace-error-with-serializable.html"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/760443655685419008",
+    "title": "岸田メルのイラスト",
+    "url": "http://kishidamel.tumblr.com/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/760336817904156672",
+    "title": "Githubの2段階認証を有効にしてgitからの認証が弾かれる時の話 - 頼りないニモニック",
+    "url": "http://nanase.hatenablog.jp/entry/2013/09/09/232529"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/760131070092128257",
+    "title": "2016-08-01 sh4869 - 日報",
+    "url": "https://nippo.wikihub.io/@sh4869/20160801151212"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/759946139130994689",
+    "title": "日本人誰もがMarkdownを真に理解していない",
+    "url": "http://anond.hatelabo.jp/20160507073642"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/759944915698667525",
+    "title": "食器輪郭特徴量でじゃんけん画像識別 - ささみろぐ",
+    "url": "http://sasamijp.hatenablog.com/entry/2016/07/30/223322"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/759914121378672640",
+    "title": "応援要請についての公開書面 | 希望のまち東京をつくる会 宇都宮けんじ公式サイト",
+    "url": "http://utsunomiyakenji.com/1040"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/759790066780676096",
+    "title": "UnityのプロジェクトをVSCodeで開く - ゲームつくろうぜ",
+    "url": "http://tassle.hatenablog.com/entry/2016/05/11/180607"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/759775533957656577",
+    "title": "c# - How to call base.base.method()? - Stack Overflow",
+    "url": "http://stackoverflow.com/questions/2323401/how-to-call-base-base-method"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/759754526597353478",
+    "title": "2016-07-31 sh4869 - 日報",
+    "url": "https://nippo.wikihub.io/@sh4869/20160731141539"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/759737225961623552",
+    "title": "供託金も高過ぎる。 - 後藤輝樹様のオフィシャルブログ",
+    "url": "http://gototeruki.blog.fc2.com/blog-entry-377.html"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/759403469216243713",
+    "title": "「私は数式アレルギーの文系でして」とへらへら笑う大人に耳を貸すな。 - 結城浩の連ツイ",
+    "url": "http://rentwi.textfile.org/?759297917043609600s"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/759355372989616128",
+    "title": "うなぎが絶滅する瞬間を見たいという欲望",
+    "url": "http://anond.hatelabo.jp/20160728204250"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/759051232321208320",
+    "title": "GitHub - cbucher/console: This is a modified version of Console 2 for a better experience under Windows Vista/7/8/10 and a better visual rendering.",
+    "url": "https://github.com/cbucher/console"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/759035859068870657",
+    "title": "秋葉原のはんだづけカフェを閉店します。【スイッチサイエンスチャンネル】 | スイッチサイエンス マガジン",
+    "url": "http://mag.switch-science.com/2016/07/25/handazukecafe_news/?via=twitter&category=news"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/759019377043738624",
+    "title": "Atomで選択範囲の背景色を見やすく変更する &#8211; nocorica",
+    "url": "http://blog.nocorica.jp/2015/06/atom-selection-color/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/758930222892785665",
+    "title": "",
+    "url": "http://www3.nhk.or.jp/news/html/20160729/k10010613021000.html?utm_int=news_contents_news-main_001"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/758876912793989125",
+    "title": "本の虫: 東京都知事選挙の候補者の主張の実現可能性の考察",
+    "url": "https://cpplover.blogspot.jp/2016/07/blog-post_29.html"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/758283784709996545",
+    "title": "CSSの新しい設計思想 PRECSSを作りました",
+    "url": "http://www.slideshare.net/atsushihanda3/css-precss-64333076"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/757975517186232320",
+    "title": "",
+    "url": "http://ssig33.com/text/GithubFlow_and_organization"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/757969512809402368",
+    "title": "ウェスターマーク効果 - Wikipedia",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A7%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%9E%E3%83%BC%E3%82%AF%E5%8A%B9%E6%9E%9C"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/757966693859590145",
+    "title": "GitHub - kyontan/edict-for-google-ime: Google 日本語入力 用の 和英変換辞書",
+    "url": "https://github.com/kyontan/edict-for-google-ime"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/757600562938388482",
+    "title": "人工知能 - アニメーション- マップ (2006-2016)",
+    "url": "http://www.slideshare.net/youichiromiyake/20062016-63459412"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/757188080893775873",
+    "title": "「ポケモンGOで保護犬の散歩が大人気」の嘘と本当 - 情報検証雑記ブログ",
+    "url": "http://demamatome.blog.fc2.com/blog-entry-18.html"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/757170134301585408",
+    "title": "",
+    "url": "https://userstyles.org/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/757133391032520704",
+    "title": "",
+    "url": "http://www.ondoku.sakura.ne.jp/nihongorizumu1onsuritu.html"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/756839489532682240",
+    "title": "",
+    "url": "http://www.ondoku.sakura.ne.jp/rizumu.html"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/756757588134408192",
+    "title": "「おられます」 | ことば（放送用語） - 最近気になる放送用語 | NHK放送文化研究所",
+    "url": "https://www.nhk.or.jp/bunken/summary/kotoba/term/012.html"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/756492192462479360",
+    "title": "Haiji Haiiro",
+    "url": "http://haiji.co/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/756491181568122880",
+    "title": "伝わるデザイン｜研究発表のユニバーサルデザイン",
+    "url": "http://tsutawarudesign.web.fc2.com/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/756468597564727296",
+    "title": "Bonjour for Windows不要！Windows10マシンに&quot;.local&quot;でアクセスしよう！ - もぐてっく",
+    "url": "http://moguno.hatenablog.jp/entry/2015/09/12/100231"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/755437212750065664",
+    "title": "小さいLinux環境の作り方 // Speaker Deck",
+    "url": "https://speakerdeck.com/fadis/xiao-sailinuxhuan-jing-falsezuo-rifang"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/754885142573752320",
+    "title": "Behance",
+    "url": "https://www.behance.net/gallery/15574861/Moderne-Sans-Free-Typeface"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/754684545752928257",
+    "title": "小池百合子候補の「コミケ応援宣言」、その真意は？表現の自由について直接聞いてきた | 東京都議会議員 おときた駿 公式サイト",
+    "url": "http://otokitashun.com/blog/senkyo/12048/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/754205971530981376",
+    "title": "",
+    "url": "https://www.amazon.com/Dart-Programming-Language-Gilad-Bracha/dp/0321927702"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/754165928632344577",
+    "title": "The Problem of Thor Bridge",
+    "url": "http://memo.sh4869.net/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/751556515157282816",
+    "title": "ヒルベルトの無限ホテルのパラドックス - Wikipedia",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%AB%E3%83%99%E3%83%AB%E3%83%88%E3%81%AE%E7%84%A1%E9%99%90%E3%83%9B%E3%83%86%E3%83%AB%E3%81%AE%E3%83%91%E3%83%A9%E3%83%89%E3%83%83%E3%82%AF%E3%82%B9"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/751291762304430080",
+    "title": "",
+    "url": "http://www.h28sangiinsen.metro.tokyo.jp/election2/list01.html"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/749184164407054336",
+    "title": "とても眠い人のブログ: 残念だが当然の結果",
+    "url": "http://aomasa.blogspot.jp/2016/06/blog-post.html"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/748029703567581185",
+    "title": "",
+    "url": "http://b.hatena.ne.jp/entry/whywaita.hateblo.jp/entry/2016/05/20/192831"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/747587716406087680",
+    "title": "",
+    "url": "http://www.sic.shibaura-it.ac.jp/~hiroaki/lecture/researchintro.pdf"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/747288941762535428",
+    "title": "Unityで対象のポイントへ等速で動かす - テラシュールブログ",
+    "url": "http://tsubakit1.hateblo.jp/entry/2015/02/20/235021"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/744806332029558784",
+    "title": "",
+    "url": "http://sh4869.net/slides/programming-beginner-tips/#/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/744462534749491200",
+    "title": "【黒バス脅迫事件】実刑判決が下った渡邊被告のロジカルでドラマチックな『最終意見陳述』があまりにも切ない | かみぷろ",
+    "url": "http://kamipro.com/blog/?p=16006"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/744050335338102786",
+    "title": "",
+    "url": "http://jp.reuters.com/article/column-brexit-kenichiro-yoshida-idJPKCN0Z00T6?pageNumber=2&sp=true"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/744049466622287872",
+    "title": "英国のEU離脱問題「ブレキジット(Brexit)」、英国は何が不満なの？",
+    "url": "http://blogos.com/article/162380/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/742258065433452546",
+    "title": "",
+    "url": "http://ci.nii.ac.jp/naid/110009850853"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/742007168627417089",
+    "title": "TVアニメ「紅 -KURENAI-」DVD CM by penpengusa アニメ/動画 - ニコニコ動画",
+    "url": "http://www.nicovideo.jp/watch/sm3208700"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/741912150193647616",
+    "title": "ありがたさの同義語 - 類語辞典(シソーラス)",
+    "url": "http://thesaurus.weblio.jp/content/%E3%81%82%E3%82%8A%E3%81%8C%E3%81%9F%E3%81%95"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/741836228966764544",
+    "title": "",
+    "url": "http://cpplover.blogspot.jp/2013/10/blog-post_20.html"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/741823001679667200",
+    "title": "ES2015の現在とESNextの未来 // Speaker Deck",
+    "url": "https://speakerdeck.com/yosuke_furukawa/es2015falsexian-zai-toesnextfalsewei-lai"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/741666606380507136",
+    "title": "浅野智也 | 創造的破壊は避けられない、ならば自ら変化し自らの手で破壊せよ « INNOVATION INSIGHTS",
+    "url": "http://wired.jp/innovationinsights/post/retail/i/uberization-and-innovation/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/741422416589524992",
+    "title": "ロボットは子どもの教育に悪影響!? Pepper、アメリカ進出の多難｜WIRED.jp",
+    "url": "http://wired.jp/2016/06/09/pepper-learns-feel-like/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/741135028348948480",
+    "title": "技術者と研究者の狭間で得たたったひとつの教訓 2016 / career-keynote-2016 // Speaker Deck",
+    "url": "https://speakerdeck.com/matsumoto_r/career-keynote-2016"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/741056707615330304",
+    "title": "",
+    "url": "http://bic.camera/api/v1/count.json"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/741056402710355968",
+    "title": "GitHub - suzutan/bic.camera",
+    "url": "https://github.com/suzutan/bic.camera"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/740213130945384449",
+    "title": "インターネット指向のロボットサービスとロボットサービスイニシアティブの活動 | 日本のロボット研究開発の歩み | 日本ロボット学会",
+    "url": "http://rraj.rsj-web.org/atcl/972"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/738696045454987264",
+    "title": "SPAである価値 - nobkzのブログ",
+    "url": "http://nobkz.hatenadiary.jp/entry/2016/06/02/005114"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/737197131006500865",
+    "title": "プログラム意味論の分かりやすい紹介 - Ryusei’s Notes (a.k.a. M59のブログ)",
+    "url": "http://mandel59.hateblo.jp/entry/2016/05/11/002356"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/737117415897587713",
+    "title": "ELF実行ファイルのメモリ配置はどのように決まるのか - ももいろテクノロジー",
+    "url": "http://inaz2.hatenablog.com/entry/2014/07/27/205913"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/736962830272888832",
+    "title": "２年縛りのイラスト | かわいいフリー素材集 いらすとや",
+    "url": "http://www.irasutoya.com/2016/05/blog-post_225.html"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/736753847582892034",
+    "title": "Javaと偽Javaの話。 - なるようになるかも",
+    "url": "http://quesera2.hatenablog.jp/entry/2016/05/28/180834"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/736745725086732288",
+    "title": "",
+    "url": "http://psychmuseum.jp/just_world/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/736185317435146245",
+    "title": "「りんな」が言葉を紡ぐ裏には、最新の自然言語処理技術があった - INTERNET Watch",
+    "url": "http://internet.watch.impress.co.jp/docs/event/20160526_759214.html?utm_source=dlvr.it&utm_medium=twitter"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/736161153978535936",
+    "title": "アメリカ映画ベスト100 - Wikipedia",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E6%98%A0%E7%94%BB%E3%83%99%E3%82%B9%E3%83%88100"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/736111002886885376",
+    "title": "その道で食べてる人が自身で得た技術を他人に教えたりしているのはどういう気持ちなんだろうか - abebetaroの日記",
+    "url": "http://abebetaro.hatenablog.jp/entry/2016/05/25/114314"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/736050247344885760",
+    "title": "Macを購入したら絶対に導入したい！私が3年間で厳選した超オススメアプリ10選！ - かなりすごいブログ",
+    "url": "http://blog.supermomonga.com/articles/vim/startdash-with-mac.html"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/736033828637007872",
+    "title": "npmでTypeScriptの型定義を管理できるtypesパッケージについて - Qiita",
+    "url": "http://qiita.com/laco0416/items/ed1aadf335f12cd3618d"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/735789499603521536",
+    "title": "GitHub - ntaoo/npb_polls_client: An example of Angular2 Dart app.",
+    "url": "https://github.com/ntaoo/npb_polls_client"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/735789476769726466",
+    "title": "プロ野球 順位投票 2016",
+    "url": "https://npb-polls.appspot.com/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/735446116632690688",
+    "title": "",
+    "url": "https://readyfor.jp/projects/ochyaigogo"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/735178393247850496",
+    "title": "tslintの各オプションの意味一覧 - 日々精進",
+    "url": "http://anton0825.hatenablog.com/entry/2015/07/06/000000"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/734910338768900097",
+    "title": "文章中から韻を踏んでいるフレーズの組み合わせを検出する gem を作りました - Qiita",
+    "url": "http://qiita.com/suzuki86/items/2a2801944a3e393464c7"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/733359337649758208",
+    "title": "【四月は君の嘘】光るなら (QL 平面説 Mashup) by QubicLoop 音楽/動画 - ニコニコ動画",
+    "url": "http://www.nicovideo.jp/watch/sm28879986"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/733357711056723980",
+    "title": "JavaScriptの文化とleftpadの話とpadStartについて - from scratch",
+    "url": "http://yosuke-furukawa.hatenablog.com/entry/2016/03/27/152500"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/733353863520997376",
+    "title": "Android NのOS Updateが速く安全になった理由はChromeOSにあった - Qiita",
+    "url": "http://qiita.com/yoichiro6642/items/2702037f63157c241941"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/732042631513968640",
+    "title": "ジンジャーのエール - #つくりおき",
+    "url": "http://tsukurioki.hatenablog.com/entry/2016/05/15/212144"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/731724051966615552",
+    "title": "心に闇を抱えた人のイラスト&#65288;男性&#65289; | かわいいフリー素材集 いらすとや",
+    "url": "http://www.irasutoya.com/2016/05/blog-post_868.html"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/730807864797724672",
+    "title": " – Microsoft ストアの Windows アプリ",
+    "url": "https://www.microsoft.com/ja-jp/store/apps/ytweetmetro/9nblggh6j37n"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/730805682992091136",
+    "title": "Apple、次期メジャーバージョン「Swift 3.0」のリリース過程を解説、正式リリースは2016年後半予定：CodeZine（コードジン）",
+    "url": "http://codezine.jp/article/detail/9423"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/730782970374557697",
+    "title": "私が休学を決めるまで - Ｔ．が過去を振り返る",
+    "url": "http://t-ritama.hatenablog.com/entry/2016/05/12/215446"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/729747046236704768",
+    "title": "未踏ジュニア - 小中高生向けミニ未踏プロジェクト",
+    "url": "http://jr.mitou.org/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/729208341231099904",
+    "title": "反戦童話「かわいそうなぞう」が露呈した戦後平和教育の欠陥 - 読む・考える・書く",
+    "url": "http://vergil.hateblo.jp/entry/2016/05/07/152037"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/728621432029118464",
+    "title": "GitHub - sh4869/SISlide: Self Introduction Slides in DigiCre",
+    "url": "https://github.com/sh4869/SISlide"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/728522310307618816",
+    "title": "研究発表におけるご清聴スライド問題 - Togetterまとめ",
+    "url": "http://togetter.com/li/782025"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/728098329326817280",
+    "title": "技術書典",
+    "url": "https://techbookfest.org/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/727518549812486144",
+    "title": "問題は解決すればいいというものではない | やねうらお.com",
+    "url": "http://rao.yaneu.com/2015/09/09/%e5%95%8f%e9%a1%8c%e3%81%af%e8%a7%a3%e6%b1%ba%e3%81%99%e3%82%8c%e3%81%b0%e3%81%84%e3%81%84%e3%81%a8%e3%81%84%e3%81%86%e3%82%82%e3%81%ae%e3%81%a7%e3%81%af%e3%81%aa%e3%81%84/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/726045500596613120",
+    "title": "Dart 1.16 リリースノート - Qiita",
+    "url": "http://qiita.com/sh4869/items/32eaa33da2afeea313d3"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/725968038575529984",
+    "title": "ゆっくりクソ映画レビューvol.1：「トランスモーファー」 by 知的風ハット エンターテイメント/動画 - ニコニコ動画",
+    "url": "http://www.nicovideo.jp/watch/sm24275925?ref=search_key_video"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/725874314487058432",
+    "title": "the name of the gameの意味 - 英和辞典 Weblio辞書",
+    "url": "http://ejje.weblio.jp/content/the+name+of+the+game"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/725845858726481921",
+    "title": "エンジニア・Webデザイナー必読: アプリケーションを国際化・多言語展開する前に知っておくべきこと - Qiita",
+    "url": "http://qiita.com/hachi8833/items/4666638e930de65dcdef"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/723780695500288000",
+    "title": "",
+    "url": "http://blogs.unity3d.com/jp/2016/04/12/developing-the-new-input-system-together-with-you/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/723761312879104001",
+    "title": "日本平動物園ホッキョクグマ（ロッシー・バニラ）ライブカメラ（旧） - YouTube",
+    "url": "https://www.youtube.com/watch?v=s1m4FXXXXzg"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/723760957898391553",
+    "title": "支払いは任せろーとは (バリバリとは) [単語記事] - ニコニコ大百科",
+    "url": "http://dic.nicovideo.jp/a/%E6%94%AF%E6%89%95%E3%81%84%E3%81%AF%E4%BB%BB%E3%81%9B%E3%82%8D%E3%83%BC"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/723362326003339265",
+    "title": "フロントエンドできない人が、フロントエンドやりすぎだ。あと、Vanilla.jsが便利だ。 - nobkzのブログ",
+    "url": "http://nobkz.hatenadiary.jp/entry/2015/02/26/110009"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/722783239358648320",
+    "title": "Atom で LaTeX on Windows &#65288;+ 最近のビルド環境&#65289; - Ichiro Maruta Homepage",
+    "url": "http://ichiro-maruta.blogspot.jp/2016/01/atom-latex-on-windows.html"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/721978066147225600",
+    "title": "",
+    "url": "http://hontolab.org/download/WebDB2010.pdf"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/721635383100878848",
+    "title": "プラセボとは？ | 治験について | 武田薬品工業株式会社",
+    "url": "http://www.takeda.co.jp/ct/placebo.html"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/720860634330497024",
+    "title": "Postmortem reports - Google ドキュメント",
+    "url": "https://docs.google.com/document/d/138ESdLm614FvP-HZ_FdeWpE3X1JWdG98H20tPaFkH_o/edit?pref=2&pli=1"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/720844204289601537",
+    "title": "赤枝氏「女の子はキャバクラへ」発言、会合での主な内容：朝日新聞デジタル",
+    "url": "http://archive.is/Nq0ce#selection-1325.95-1325.109"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/720841121971056640",
+    "title": "新しく近所に建った保育園がうるさいので苦情を言いにいった。",
+    "url": "http://anond.hatelabo.jp/20160412211055"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/719146033528176640",
+    "title": "「パナマ文書」解析の技術的側面 – Keiichiro Ono – Medium",
+    "url": "https://medium.com/@c_z/%E3%83%91%E3%83%8A%E3%83%9E%E6%96%87%E6%9B%B8-%E8%A7%A3%E6%9E%90%E3%81%AE%E6%8A%80%E8%A1%93%E7%9A%84%E5%81%B4%E9%9D%A2-d10201bbe195#.qfiubs2qi"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/717936593365938178",
+    "title": "Milestones - dart-lang/sdk · GitHub",
+    "url": "https://github.com/dart-lang/sdk/milestones"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/717743519528452096",
+    "title": "GitHub - kujirahand/nadesiko: Japanese Programming Language",
+    "url": "https://github.com/kujirahand/nadesiko"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/717702103351697409",
+    "title": "Wisteria Lodge, 絵との距離感とか",
+    "url": "http://tumblr.sh4869.net/post/141086491905/%E7%B5%B5%E3%81%A8%E3%81%AE%E8%B7%9D%E9%9B%A2%E6%84%9F%E3%81%A8%E3%81%8B"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/716677771682930688",
+    "title": "GRAPEVINE - 光について - YouTube",
+    "url": "https://www.youtube.com/watch?v=K8KRWEZOvSE"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/716643109392678912",
+    "title": "",
+    "url": "http://www.amazon.co.jp/registry/wishlist/38EAFB8A4MOBM?sort=universal-price&view=null"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/716641797938655234",
+    "title": "あ！スーモ！",
+    "url": "http://hnakai0909.github.io/works/suumo/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/716574379379933184",
+    "title": "ITに興味はないけどエンジニアになってしまった新人が業務や会社に効率的に慣れる方法 - Qiita",
+    "url": "http://qiita.com/m2266269151/items/be7cdc16d662bc4bb226?utm_content=buffer373a6&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/716571516989677568",
+    "title": "",
+    "url": "http://data.chronicle.com/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/716514843503628289",
+    "title": "GitHub - yjbanov/butterfly: A web framework for Dart based on Flutter&#39;s widget model",
+    "url": "https://github.com/yjbanov/butterfly"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/716489101453565952",
+    "title": "",
+    "url": "http://www.irohika-server.jp/mail_bargain_biz.html"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/716472495902031873",
+    "title": "",
+    "url": "http://www.tumblrmerch.com/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/715940916784025600",
+    "title": "",
+    "url": "http://liginc.co.jp/246919"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/715939419472027649",
+    "title": "インターネットの歴史 History of the Internet - Yahoo! JAPAN",
+    "url": "http://docs.yahoo.co.jp/20years/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/715923404105187328",
+    "title": "Git GUI Client for Windows Mac and Linux | Axosoft GitKraken",
+    "url": "https://www.gitkraken.com/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/715554605006848002",
+    "title": "",
+    "url": "http://t-techlab.net/?page_id=353"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/714775914182082560",
+    "title": "平成28年度スーパーサイエンスハイスクール（SSH）指定校の内定等について：文部科学省",
+    "url": "http://www.mext.go.jp/b_menu/houdou/28/03/1369003.htm"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/714729465860001795",
+    "title": "Tokyo Technical Samurai Blog: アメリカへ",
+    "url": "http://tokyotsamurai.blogspot.jp/2016/03/blog-post.html"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/714425469156732928",
+    "title": "公開イベントで明かされた「声のお仕事」ウラ話　『声のお仕事』 （川端裕人 著）｜特集｜「本の話」編集部｜本の話WEB",
+    "url": "http://hon.bunshun.jp/articles/-/4662"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/714373882128388097",
+    "title": "Google 翻訳の英語に日本語喋らせる遊び - 救済",
+    "url": "http://ikr7.hatenablog.com/entry/2015/03/13/203148"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/713334937856790529",
+    "title": "技術書典：技術書オンリーイベント",
+    "url": "https://techbookfest.github.io/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/712982873658097665",
+    "title": "",
+    "url": "http://www.typescriptlang.org/Tutorial"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/712555245566619648",
+    "title": "",
+    "url": "http://ubiteku.oinker.me/2015/07/27/why-most-unit-testing-is-waste/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/712549478935498753",
+    "title": "",
+    "url": "https://makenowjust.github.io/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/712518862978289664",
+    "title": "GitHub - sh4869/yahoo_ma_service.cr: Yahoo Japanese Morphological analysis Service API Wrapper for Crystal",
+    "url": "https://github.com/sh4869/yahoo_ma_service.cr"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/712455676828655616",
+    "title": "I’ve Just Liberated My Modules – Azer Koçulu – Medium",
+    "url": "https://medium.com/@azerbike/i-ve-just-liberated-my-modules-9045c06be67c#.oyhyaf9en"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/712444766517010432",
+    "title": "女性エンジニアを増やすのは、キラキラ感よりもお得感だと思う - BiTHAND",
+    "url": "http://www.bit-hand.com/entry/how_to_increase_womens_engineers"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/712265553340010496",
+    "title": "sed（だけ）でズンドコキヨシ - Qiita",
+    "url": "http://qiita.com/zr_tex8r/items/b453a37d7399a894ed87"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/712156756022059008",
+    "title": "同人小説を書くことについて - konatsu&#39;s blog",
+    "url": "http://yagikonatsu.hatenablog.com/entry/2015/12/28/142903"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/712124841575342080",
+    "title": "支援する「囲い」と支援されたい少年配信者たち - CNET Japan",
+    "url": "http://japan.cnet.com/sp/smartphone_native/35079620/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/711897561330651136",
+    "title": "GitHub - julius-speech/julius: Open-Source Large Vocabulary Continuous Speech Recognition Engine",
+    "url": "https://github.com/julius-speech/julius"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/711455100468797441",
+    "title": "プログラミングスキルがあれば学歴なんていらない。17歳女子高生が大学進学をやめて挑む初起業。 – Everything’s an Experiment – Medium",
+    "url": "https://medium.com/@ihayato/%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF-%E3%82%A4%E3%82%B1%E3%83%80%E3%83%8F%E3%83%A4%E3%83%88%E3%81%A7%E3%81%99-%E5%85%88%E6%97%A5%E3%82%A2%E3%83%83%E3%83%97%E3%81%97%E3%81%9F%E3%81%93%E3%81%A1%E3%82%89%E3%81%AE%E8%A8%98%E4%BA%8B%E3%81%8C%E3%81%A8%E3%81%A6%E3%82%82%E5%A5%BD%E8%A9%95%E3%81%A7%E3%81%97%E3%81%9F-596811c552aa#.7bj4725r8"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/711416377706356737",
+    "title": "歌舞伎座.tech#9「異種プログラミング言語格闘勉強会」 - 2016/03/20 13:30開始 - ニコニコ生放送",
+    "url": "http://live.nicovideo.jp/watch/lv256017127#19:04"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/711154553350017024",
+    "title": "XML Entity reference with Japnase String · Issue #2319 · crystal-lang/crystal · GitHub",
+    "url": "https://github.com/crystal-lang/crystal/issues/2319"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/710744330760097792",
+    "title": "Qiitaで春の新生活を応援しましょう！ - Qiita Blog",
+    "url": "http://blog.qiita.com/post/141132737319/4yournewlife"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/710685965220622338",
+    "title": "Dart Developer Summit 2016",
+    "url": "https://www.dartlang.org/events/2016/summit/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/709741993748856832",
+    "title": "15歳でデビューした芸能界、大学で始めたプログラミング…偶然が作った自分だけの生き方。”ギークな女優”が歩んできた、これまでの道程 | meeta MAGAZINE　(ミータマガジン)",
+    "url": "http://meeta.weban.jp/contents/magazine/160315.html?utm_content=buffer38982&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/709740327033122817",
+    "title": "",
+    "url": "http://lacolaco.net/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/709643456524582912",
+    "title": "ロボットが完成しました！ by Tokyo Technical 侍 - DMM.make",
+    "url": "https://media.dmm-make.com/item/3685/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/709388006587654144",
+    "title": ":clap: 卒業しました · sh4869/sh4869.github.io@be4e378 · GitHub",
+    "url": "https://github.com/sh4869/sh4869.github.io/commit/be4e37803e9d2a69273cfb020f6663db1437712e"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/708981796029882376",
+    "title": "Playground/DDC_TEST at master · sh4869/Playground · GitHub",
+    "url": "https://github.com/sh4869/Playground/tree/master/DDC_TEST"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/708969106981060609",
+    "title": "Playground/DDC_TEST at master · sh4869/Playground · GitHub",
+    "url": "https://github.com/sh4869/Playground/tree/master/DDC_TEST"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/708661673523941376",
+    "title": "Dart 1.15 リリースノートとこれからのDartの進みなど - Qiita",
+    "url": "http://qiita.com/sh4869/items/3b6076cc4d018aee722f"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/708644046881689600",
+    "title": "響け！ユーフォニアム 北宇治高校吹奏楽部、最大の危機 &nbsp;|&nbsp; このマンガがすごい！WEB",
+    "url": "http://konomanga.jp/manga/euphonium"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/706643313625952256",
+    "title": "Zones (Dart公式ドキュメントの翻訳) - Qiita",
+    "url": "http://qiita.com/takyam/items/161af576ded7debe2156"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/676416862620540928",
+    "title": "",
+    "url": "http://sh4869.hatenablog.com/entry/2015/12/14/231548"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/673879928161484800",
+    "title": "百合 Advent Calendar 2015 - Adventar",
+    "url": "http://www.adventar.org/calendars/1030"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/673123063349706752",
+    "title": "GitHub - sh4869/csv_code_generator.dart: csv literal code generator for Dart using source_gen - EXPERIMENTAL",
+    "url": "https://github.com/sh4869/csv_code_generator.dart"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/672801483901931520",
+    "title": "アイドルマスター | 無料ライブ配信［みんなでストリームγ版］",
+    "url": "http://live.b-ch.com/imas"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/668827827337203712",
+    "title": "イラストコミュニケーションサービス[pixiv]",
+    "url": "http://www.pixiv.net/novel/show.php?id=3201023"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/668054666442215424",
+    "title": "親父の遺したストロベリー・パニック - 句点の音色",
+    "url": "http://rousseauchan.hatenablog.jp/entry/2015/11/21/212153"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/667756310985768960",
+    "title": "to:ame_yame - Twitter検索",
+    "url": "https://twitter.com/search?f=tweets&vertical=default&q=to%3Aame_yame&src=typd"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/667751980614332416",
+    "title": "南関東開発機構 : 同人誌『exeファイルをダブルクリックすると何が起こるか』を公開しました",
+    "url": "http://blog.livedoor.jp/south_kanto_dm/archives/52103433.html"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/667616111295238144",
+    "title": "A new look for repositories · GitHub",
+    "url": "https://github.com/blog/2085-a-new-look-for-repositories"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/667330147243036672",
+    "title": "",
+    "url": "http://sasami.asia/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/666574405271552000",
+    "title": "百合 Advent Calendar 2015 - Adventar",
+    "url": "http://www.adventar.org/calendars/1030"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/665816643684077569",
+    "title": "百合 Advent Calendar 2015 - Adventar",
+    "url": "http://www.adventar.org/calendars/1030"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/664788057657180160",
+    "title": "見てるなう(仮) - 今見ているウェブページをTwitterで素早く共有",
+    "url": "https://miteru.yosida95.com/authorize?oauth_token=ltZd-wAAAAAAIBNIAAABUPvAvgw&oauth_verifier=FrqAuLqTkdNkcTPFZD3WGwaIEoGotIFL"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/657894889695260672",
+    "title": "Join us on Slack!",
+    "url": "http://dartlang-slack.herokuapp.com/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/657624601296437248",
+    "title": "",
+    "url": "http://www.miraiyasu.com/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/654667986532339712",
+    "title": "松下ゼミを志望される方へのメッセージ (2016年版) - 松下研究室 | 関西大学総合情報学部",
+    "url": "http://amateras.wsd.kutc.kansai-u.ac.jp/?p=3158"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/653950830110879744",
+    "title": "【激怒】ミニストップのソフトクリームを絶賛する彼氏に彼女がブチギレ「女性の尊厳を馬鹿にされた」 ｜ バズプラスニュース Buzz+",
+    "url": "http://buzz-plus.com/article/2015/10/12/softcream/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/653855103309381632",
+    "title": "2015年センター試験数学IAを全てプログラム(Python)で解く - Qiita",
+    "url": "http://qiita.com/Akai_Banana/items/b328fe0116d248127a36"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/647735425201602560",
+    "title": "",
+    "url": "http://kibi-dango.jp/blog/?p=1668"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/643476350653698049",
+    "title": "J832.com - Kevin Moore",
+    "url": "http://www.j832.com/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/639864171434127360",
+    "title": "ご注意ください／漫画家・久保帯人先生の肖像について｜集英社『週刊少年ジャンプ』公式サイト",
+    "url": "http://www.shonenjump.com/j/2015/09/150904news01.html"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/632751638806028288",
+    "title": "駆け足、秒速8キロメートル（Azurite）の通販・購入はメロンブックス | メロンブックス",
+    "url": "https://www.melonbooks.co.jp/detail/detail.php?product_id=135755"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/630283136195129345",
+    "title": "",
+    "url": "http://b.hatena.ne.jp/entry/takuya-1st.hatenablog.jp/entry/2015/08/08/000827"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/624234352235298816",
+    "title": "東京 Crystal 勉強会 #1 in 五反田 - connpass",
+    "url": "http://crystal.connpass.com/event/17496/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/623889545893785600",
+    "title": "Team#5749 TokyoTechnicalSamurai FRCへの挑戦 - YouTube",
+    "url": "https://www.youtube.com/watch?v=g6IpuwakTco&feature=youtu.be"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/623889365073133569",
+    "title": "Tokyo Technical Samurai Blog: 新たなる挑戦",
+    "url": "http://tokyotsamurai.blogspot.jp/2015/07/blog-post_19.html"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/623887862887362564",
+    "title": "tokyotechnicalsamurai.ml",
+    "url": "http://tokyotechnicalsamurai.ml/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/622661247540957184",
+    "title": "god (God) · GitHub",
+    "url": "https://github.com/god"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/621999515311017984",
+    "title": "まだ台風に狼狽してんの？",
+    "url": "http://anond.hatelabo.jp/20150717110926"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/621282596639477760",
+    "title": "【総選挙2014】最高裁国民審査は「わからなかったら×（バツ）」で（江川紹子）｜ポリタス  「総選挙」から考える日本の未来  ",
+    "url": "http://politas.jp/features/3/article/231"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/621278877151686656",
+    "title": "",
+    "url": "http://consti.web.fc2.com/16shou4.html"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/620989420942946308",
+    "title": "",
+    "url": "http://b.hatena.ne.jp/entry/localhost:8000/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/620918323455262720",
+    "title": "Git - Remote Branches",
+    "url": "https://git-scm.com/book/en/v2/Git-Branching-Remote-Branches#Deleting-Remote-Branches"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/620239459724857344",
+    "title": "GitHub - sh4869/twitter.dart: Twitter API Library in Dart",
+    "url": "https://github.com/sh4869/twitter.dart"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/617295102671622144",
+    "title": "",
+    "url": "http://www.amazon.co.jp/ELECOM-Bluetooth%E3%83%9E%E3%82%A6%E3%82%B9-IR%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC-3%E3%83%9C%E3%82%BF%E3%83%B3-M-BT12BRBK/dp/B00G9NII38/ref=sr_1_6?s=computers&ie=UTF8&qid=1436009436&sr=1-6&keywords=%E3%83%9E%E3%82%A6%E3%82%B9++bluetooth"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/616614592068739077",
+    "title": "深夜のインターネットは「こころの回復」に適していない - シロクマの屑籠",
+    "url": "http://d.hatena.ne.jp/p_shirokuma/20150702/p1"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/616211176884535297",
+    "title": "【輪るピングドラム】ノルニル (QL ルシッドドリーミング Mashup) by QubicLoop 音楽/動画 - ニコニコ動画",
+    "url": "http://www.nicovideo.jp/watch/sm26587237"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/615113566480306176",
+    "title": "",
+    "url": "http://i7szz.bigprizezone.6673.info/?sov=265069507&hid=hzlvhpntvlnllhjr&redid=6201&gsid=22&id=XNSX.-r6201-t22"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/614082724647669760",
+    "title": "",
+    "url": "http://www.geocities.jp/deepbreathinghp/katarienu.htm"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/607416307860963329",
+    "title": "Weird result of `den spec`  · Issue #39 · seaneagan/den · GitHub",
+    "url": "https://github.com/seaneagan/den/issues/39"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/607151334911901696",
+    "title": "dartlang-benchmarking.md · GitHub",
+    "url": "https://gist.github.com/sh4869/9a35be4eab77b310eee5"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/607075238082277376",
+    "title": "",
+    "url": "-Fedora-and-Amazon-Linux-AMI"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/607037552843853825",
+    "title": "僕はDartをビルドしなければいけない　弱みを握られている—— - セカイ内存在証明",
+    "url": "http://makenowjust.hatenablog.com/entry/2015/06/06/114337"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/606422559425359872",
+    "title": "GitHub - CatalystITLabs/presentation.dart: Presentation framework using css3 3d animations in dart",
+    "url": "https://github.com/CatalystITLabs/presentation.dart"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/603888666428051456",
+    "title": "今年は平成何年？",
+    "url": "http://xn--vqq918a.jp/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/603825125457174528",
+    "title": "GitHub - dart-lang/sdk: The Dart SDK, including the VM, dart2js, core libraries, and more.",
+    "url": "https://github.com/dart-lang/sdk"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/602357902330892288",
+    "title": "Docx 画像取り出し方",
+    "url": "http://www.slideshare.net/tshiihara/docx-15805705"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/600716400764792833",
+    "title": "",
+    "url": "https://soundcloud.com/qubicloop/ql-dim-mashup"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/600640177107644417",
+    "title": "株式会社 闇 ver.2",
+    "url": "http://death.co.jp/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/599175739338924032",
+    "title": "",
+    "url": "http://www.dell.com/support/article/us/en/19/SLN297287/JA"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/597261197730156544",
+    "title": "",
+    "url": "http://www.amazon.co.jp/Art-Penguindrum-%E3%82%A2%E3%83%BC%E3%83%88-%E3%82%AA%E3%83%96-%E3%83%94%E3%83%B3%E3%82%B0%E3%83%89%E3%83%A9%E3%83%A0/dp/4344827430/ref=pd_sim_74_6?ie=UTF8&refRID=0SH3DR4GC3012GR6FJPR"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/593392547961012224",
+    "title": "儲かるフリーペーパーの作り方！思い立ってから出来るまでの8つの方法",
+    "url": "http://lets-business.com/work/free-paper/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/593094340735438848",
+    "title": "Home · dartino/sdk Wiki · GitHub",
+    "url": "https://github.com/dart-lang/fletch/wiki/Dart-Services-on-Android"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/590851193796067328",
+    "title": "Home | DefinitelyTyped",
+    "url": "http://definitelytyped.org/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/589812208617435136",
+    "title": "templateの概念からTMPの応用まで - Qiita",
+    "url": "http://qiita.com/minamiyama1994/items/1b1b72d6c8a0aa61c6f6"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/589809082015428608",
+    "title": "shared_ptrとweak_ptrの使い分けわかる？ - Qiita",
+    "url": "http://qiita.com/MasayaMizuhara/items/0b78f7046aaa6d17bb66"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/589802810243305473",
+    "title": "const_iterator - ルギア君の戯言",
+    "url": "http://lugia.hatenablog.com/entry/20090215/1234662413"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/589800189344362496",
+    "title": "",
+    "url": "http://www.slideshare.net/chichimotsu/asio"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/589024847591645185",
+    "title": " ウィスキー&ウォッカ / ARB の歌詞 (185698) - プチリリ",
+    "url": "http://petitlyrics.com/lyrics/185698"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/588370433667309569",
+    "title": "node.js - NPM cannot install dependencies - Attempt to unlock something which hasn&#39;t been locked - Stack Overflow",
+    "url": "http://stackoverflow.com/questions/22152162/npm-cannot-install-dependencies-attempt-to-unlock-something-which-hasnt-been/22207869#22207869"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/588342918080921600",
+    "title": "あのキャラ！GitLabの怖すぎるマスコットの正体は、タヌキだった | 株式会社カンマン",
+    "url": "http://www.comman.co.jp/gitlab-of-character-is-raccoon-dog/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/588309751387197440",
+    "title": "あのキャラ！GitLabの怖すぎるマスコットの正体は、タヌキだった | 株式会社カンマン",
+    "url": "http://www.comman.co.jp/gitlab-of-character-is-raccoon-dog/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/588121728754167808",
+    "title": "GitHub - xoxco/node-slack: a nodejs module for sending and receiving messages from Slack",
+    "url": "https://github.com/xoxco/node-slack"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/588042247180017665",
+    "title": "GitHub - uyu-kickstart/nyanpass-bot: Slack bot",
+    "url": "https://github.com/uyu-kickstart/nyanpass-bot"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/587660045988466688",
+    "title": "make - &quot;error adding symbols: DSO missing from command line&quot; while compiling g13-driver - Ask Ubuntu",
+    "url": "http://askubuntu.com/questions/521706/error-adding-symbols-dso-missing-from-command-line-while-compiling-g13-driver"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/587259149248921601",
+    "title": "GitHub - kmuto/review: Re:VIEW is flexible document format/conversion system",
+    "url": "https://github.com/kmuto/review"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/587158610850881536",
+    "title": "【TTS】国際高校生ロボコンFRC結果報告放送 - 2015/04/12 16:30開始 - ニコニコ生放送",
+    "url": "http://live.nicovideo.jp/watch/lv217035334?ref=top&zroute=index"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/587102798833000450",
+    "title": "WebSocket の動作確認に wscat が便利すぎる件 - tricknotesのぼうけんのしょ",
+    "url": "http://tricknotes.hateblo.jp/entry/20120227/p1"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/587093660300214275",
+    "title": "Events | Node.js v7.1.0 Documentation",
+    "url": "https://nodejs.org/docs/latest/api/events.html#events_emitter_on_event_listener"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/586902735326326784",
+    "title": "TVアニメ「ガンスリンガー ストラトス」オフィシャルサイト",
+    "url": "http://www.guns-project.jp/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/586872189002985473",
+    "title": "",
+    "url": "http://ja.wikipedia.org/wiki/YAGNI"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/586744987729072128",
+    "title": "",
+    "url": "http://cpplover.blogspot.jp/2015/04/git10linus-torvals.html"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/585439754205802496",
+    "title": "オンデマンド名刺印刷｜受付当日出荷！格安名刺印刷のマヒトデザイン",
+    "url": "https://mhtdesign.net/order/category/businesscard.html"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/585410729827700736",
+    "title": "高専進学は中学生にとっていい選択肢なのか考える - 月面リストカット",
+    "url": "http://kaguya.hateblo.jp/entry/2015/04/04/233934"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/585407045383262208",
+    "title": "エイプリルフールで用いた知見・技術・隠し機能を発表します！！！！！！ - KMC活動ブログ",
+    "url": "http://kmc.hatenablog.jp/entry/2015/04/07/202030"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/584907730126675969",
+    "title": "",
+    "url": "http://doc.gitlab.com/ce/api/milestones.html"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/584856515745447936",
+    "title": "",
+    "url": "http://news.goo.ne.jp/article/sankei/nation/sankei-wst1504020016.html"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/584846594593296384",
+    "title": "GitHub - jhauswald/lucida: Speech and Vision Based Intelligent Personal Assistant",
+    "url": "https://github.com/jhauswald/sirius"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/584845741509648385",
+    "title": "",
+    "url": "https://github.com/latte0/dfasdfa"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/584711909888270336",
+    "title": "",
+    "url": "http://ja.wikipedia.org/wiki/%E6%A9%8B%E6%9C%AC%E7%94%B1%E9%A6%99%E5%88%A9"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/584211577017995266",
+    "title": "核融合炉に飛び込んだらどうなりますか？ - 「炉... - 物理学 | Yahoo!知恵袋",
+    "url": "http://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1147074011"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/584178059474964480",
+    "title": "GitHub - wjwwood/serial: Cross-platform, Serial Port library written in C++",
+    "url": "https://github.com/wjwwood/serial"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/583932458120318976",
+    "title": "ミニ四駆・トップページ",
+    "url": "http://www.tamiya.com/japan/mini4wd/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/583907308721176576",
+    "title": "アイドルマスター シンデレラガールズ　第11話 アニメ/動画 - ニコニコ動画",
+    "url": "http://www.nicovideo.jp/watch/1427424802"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/583893668769071104",
+    "title": "震災と、「眠りつづけて死ぬ」のこれまでと、これからの話 - The Internet...",
+    "url": "http://ymrl.hatenablog.com/entry/20110605/1307214258"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/583603493216231425",
+    "title": "",
+    "url": "http://www.qt.io/qtjapansummit2015/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/583601738738896896",
+    "title": "GitHub - the-blue-alliance/the-blue-alliance: A webapp for accessing information about the FIRST Robotics Competition.",
+    "url": "https://github.com/the-blue-alliance/the-blue-alliance"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/582452974925975552",
+    "title": "GitHub System Status",
+    "url": "https://status.github.com/messages"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/580890849803825152",
+    "title": "Dart News &amp; Updates: Dart for the Entire Web",
+    "url": "http://news.dartlang.org/2015/03/dart-for-entire-web.html"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/580890801850355712",
+    "title": "Dart News &amp; Updates",
+    "url": "http://news.dartlang.org/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/579813464324988929",
+    "title": "",
+    "url": "http://ja.wikipedia.org/wiki/Wi-Fi_Protected_Setup"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/579275758901669889",
+    "title": "",
+    "url": "http://unicus.jp/skmk/archives/771"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/578196627342512128",
+    "title": "",
+    "url": "http://headlines.yahoo.co.jp/hl?a=20150224-00000050-dal-ent"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/578159402223476736",
+    "title": "React 雑感 - Qiita",
+    "url": "http://qiita.com/naoya@github/items/a4d54f5ab008c3fa4055"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/578072151778988032",
+    "title": "",
+    "url": "http://tocos-wireless.com/jp/products/ToCoNet/TWESDK.html"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/577709993262075904",
+    "title": "Using XMLHttpRequest in IE6 - Web APIs | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest_in_IE6"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/577497487348350976",
+    "title": "JavaScriptでセキュアなコーディングをするために気をつけること &ndash; cybozu developer network",
+    "url": "https://cybozudev.zendesk.com/hc/ja/articles/201850320-JavaScript%E3%81%A7%E3%82%BB%E3%82%AD%E3%83%A5%E3%82%A2%E3%81%AA%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%92%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E6%B0%97%E3%82%92%E3%81%A4%E3%81%91%E3%82%8B%E3%81%93%E3%81%A8"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/577497273510187009",
+    "title": "同期および非同期リクエスト - Web API インターフェイス | MDN",
+    "url": "https://developer.mozilla.org/ja/docs/XMLHttpRequest/Synchronous_and_Asynchronous_Requests"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/577490506747240449",
+    "title": "",
+    "url": "http://support.lenovo.com/jp/ja/documents/ht079216"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/577175272039915520",
+    "title": "ふぁいんどぱわー　調べる人の冒険！（チラシの裏よりチョット上） PHP のNon Thread Safe とThread Safe の違い",
+    "url": "http://gete.blog.shinobi.jp/Entry/41/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/577158451425513472",
+    "title": "開発者がSurfacePro3を買ったらまずやること - Qiita",
+    "url": "http://qiita.com/tanakh/items/a1b4705fb58ef3c89800"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/577154403720765440",
+    "title": "",
+    "url": "https://chocolatey.org/packages/php"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/576975499584348160",
+    "title": "Pixel スマートフォンまたは Nexus 端末を出荷時の設定にリセットする - Nexus ヘルプ",
+    "url": "https://support.google.com/nexus/answer/4596836?hl=ja"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/576701023021985792",
+    "title": "LNMP一键安装包 by Licess",
+    "url": "http://www.weice.in/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/576633664768884736",
+    "title": "",
+    "url": "http://weice.in/ivory/typography.html"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/576613569451696128",
+    "title": "Image | Semantic UI",
+    "url": "http://semantic-ui.com/elements/image.html#sizes"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/576093205516541952",
+    "title": "Windowsでgem installするとSSLエラーが出る場合の解決策 - Qiita",
+    "url": "http://qiita.com/shimoju/items/394818b4989b94680aaf"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/576092713038163968",
+    "title": "Workaround RubyGems&#39; SSL errors on Ruby for Windows (RubyInstaller) · GitHub",
+    "url": "https://gist.github.com/luislavena/f064211759ee0f806c88"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/576091286727364608",
+    "title": "aozorabunko/cards at master · aozorabunko/aozorabunko · GitHub",
+    "url": "https://github.com/aozorabunko/aozorabunko/tree/master/cards"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/576086642357743616",
+    "title": "GitHub - aozorabunko/aozorabunko",
+    "url": "https://github.com/aozorabunko/aozorabunko"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/576079180120506368",
+    "title": "slashbox.sty問題 - cloverrose",
+    "url": "https://sites.google.com/site/cloverplusrose/tex/ubuntu12-04-texlive2011/slashbox-sty-wen-ti"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/576028811029917696",
+    "title": "Pandoc ユーザーズガイド 日本語版 - Japanese Pandoc User's Association",
+    "url": "http://sky-y.github.io/site-pandoc-jp/users-guide/"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/575989044871491584",
+    "title": "Quine Advent Calendar 2014 Day 100: （ほぼ）一人Advent Calendarを100日続けて学んだこと - Qiita",
+    "url": "http://qiita.com/make_now_just/items/bafe27793334757af552"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/575983685670825985",
+    "title": "Yoga13やThinkPADのファンクションキーを逆にする方法",
+    "url": "http://iiniku.com/IT/windows8/win8-ideapadyoga13-13.html"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/575929627522134016",
+    "title": "GitHub - MarlinFirmware/Marlin: Optimized firmware for RepRap 3D printers based on the Arduino platform.",
+    "url": "https://github.com/MarlinFirmware/Marlin"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/575230495484612608",
+    "title": "",
+    "url": "http://ja.wikipedia.org/wiki/%E5%88%87%E8%85%B9"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/575183279537565697",
+    "title": "",
+    "url": "http://gdcproject.org/downloads"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/574961911583760385",
+    "title": "TVアニメ「ユリ熊嵐」公式サイト",
+    "url": "http://yurikuma.jp/chara.html"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/574956103433220096",
+    "title": "",
+    "url": "http://www.textdrop.net/google-styleguide-ja/cppguide.xml"
+  },
+  {
+    "tweet_url": "https://twitter.com/statues/574949788073881600",
+    "title": "",
+    "url": "http://www.lastfm.jp/home"
+  }
+]
