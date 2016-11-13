@@ -1,5 +1,10 @@
 [
   {
+    "url": "https://github.com/github/fetch",
+    "title": "GitHub - github/fetch: A window.fetch JavaScript polyfill.",
+    "tweet_url": "https://twitter.com/sh4869sh/status/797861873781571584"
+  },
+  {
     "url": "https://gist.github.com/koudaiii/49ac3f8b7c207f0da31f",
     "title": "crontabを設定しても実行されない時の確認ポイント · GitHub",
     "tweet_url": "https://twitter.com/sh4869sh/status/797826493128720388"
