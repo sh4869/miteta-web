@@ -8,7 +8,7 @@ class GitUpdater
       time = Time.now
       begin 
         g.commit_all("AUTOMATIC UPDATE")
-        g.push()
+        g.push(branch: "tweet-data")
       rescue
         puts "Commit Failed"
       end
