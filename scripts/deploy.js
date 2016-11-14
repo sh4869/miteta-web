@@ -6,7 +6,7 @@ const GH_TOKEN = process.env.GH_TOKEN;
 ghpages.publish(
     path.join(__dirname, '..', 'app'),
     {
-        repo: 'https://' + GH_TOKEN + '@github.com/SIT-Digicre/ShibaurasaiApp',
+        repo: 'https://' + GH_TOKEN + '@github.com/sh4869/miteta-web',
         user: {
             name: "sh4869",
             email: "nobuk4869@gmail.com",
