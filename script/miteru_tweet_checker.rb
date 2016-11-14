@@ -16,6 +16,7 @@ class MiteruTweetChecker
     end
     rest_client.user_timeline(USER_NAME,options = {:count => 200}).reverse_each do |tweet|
       if tweet.hashtags.select{|tag| tag.text == "miteru" }.length > 0
+        # get url,title,tweet_url
         page_url = tweet.uris.last.expanded_uri.to_s
         begin 
           title = OpenURI.open_uri(page_url).read.scan(/<title>(.*?)<\/title>/)[0][0] 
@@ -24,11 +25,19 @@ class MiteruTweetChecker
         end
         tweet_url = tweet.uri.to_s
         tweet_data = {"url" => page_url,"title" => title, "tweet_url" => tweet_url}
-        miteru_tweet_data.unshift(tweet_data)
+        # 過去のものを確認
+		back_data = miteru_tweet_data.select { |tweet_data| tweet_data.url == page_url }
+        if back_data.length > 0
+          if back_data[0].title == ""
+            back_data[0].title = title   
+          end
+		else
+          miteru_tweet_data.unshift(tweet_data)
+		end
       end
     end
     # 重複を削除
-    miteru_tweet_data.uniq!
+	miteru_tweet_data.uniq!{|data| data.tweet_url}
     if miteru_tweet_data.length > old_length
       file = File.open("miteru_tweet.json","w")
       file.write(JSON.pretty_generate(miteru_tweet_data) + "\n")
@@ -39,4 +48,3 @@ class MiteruTweetChecker
     end
   end 
 end
-

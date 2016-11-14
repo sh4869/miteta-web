@@ -7,7 +7,7 @@ class GitUpdater
     if g.current_branch == "tweet-data"
       time = Time.now
       begin 
-        g.commit_all("AUTOMATIC UPDATE")
+        g.commit_all("[ci skip] AUTOMATIC UPDATE")
         g.push("origin","tweet-data")
       rescue
         puts "Commit Failed"
