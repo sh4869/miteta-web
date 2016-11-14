@@ -26,6 +26,18 @@ export default class MiteruTweetsPage extends React.Component<MiteruTweetsPagePr
         miteru_tweets: [],
         current_index: 0
     };
+    style = {
+        border: {
+            borderColor: "rgba(0, 68, 158, 0.47)"
+        },
+        load_button_zone: {
+            "padding": "2em",
+            load_button: {
+                "float": "right"
+            }
+        }
+    };
+
     componentDidMount() {
         fetch(data_url).then((response) => {
             return response.json();
@@ -49,12 +61,14 @@ export default class MiteruTweetsPage extends React.Component<MiteruTweetsPagePr
                 const miteru_tweet = this.state.miteru_tweets[i];
                 this.miteru_tweet_components.push(
                     (
-                        <MiteruTweet
-                            title={miteru_tweet.title}
-                            url={miteru_tweet.url}
-                            tweet_url={miteru_tweet.tweet_url}
-                            key={i}
-                            />
+                        <div className={"bb"} style={this.style.border}>
+                            <MiteruTweet
+                                title={miteru_tweet.title}
+                                url={miteru_tweet.url}
+                                tweet_url={miteru_tweet.tweet_url}
+                                key={i}
+                                />
+                        </div>
                     )
                 );
             }
@@ -62,7 +76,15 @@ export default class MiteruTweetsPage extends React.Component<MiteruTweetsPagePr
         return (
             <div>
                 {this.miteru_tweet_components}
-                <div onClick={this.onLoadButtonClick.bind(this)}> More Load </div>
+                <div className={"mw5 mw7-ns center pa3 ph5-ns"} style={this.style.load_button_zone}>
+                    <a className="f6 link dim br2 ba ph3 pv2 mb2 dib black" style={this.style.load_button_zone.load_button}>
+                        <div onClick={this.onLoadButtonClick.bind(this)} className={"f4"}>
+                            <div className={"center"}>
+                                Load More
+                            </div>
+                        </div>
+                    </a>
+                </div>
             </div>
         );
     }

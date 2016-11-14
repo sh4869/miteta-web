@@ -64,7 +64,7 @@ export default class MiteruTweet extends React.Component<MiteruTweetInfo, {}> {
             this.title = this.props.params.title ? decodeURI(this.props.params.title) : "";
         }
         return (
-            <div>
+            <div className={"mw5 mw7-ns center pa3 ph5-ns"}>
                 <a href={this.url} style={this.style.title}>
                     {(() => {
                         if (this.title) {
