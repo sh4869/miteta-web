@@ -1,5 +1,6 @@
 /// <reference path="../../node_modules/@types/twitter/index.d.ts"/>
 import * as React from "react";
+import * as $script from "scriptjs";
 
 export interface MiteruTweetInfo {
     url: string;
@@ -7,25 +8,37 @@ export interface MiteruTweetInfo {
     tweet_url: string;
 }
 
-const embedded_tweet_html = (tweet_url) => {
-    return "<blockquote class=\"twitter-tweet\" data-lang=\"ja\"><a href=\"" + tweet_url + "\">Tweet Link</a></blockquote>";
-};
+export default class MiteruTweet extends React.Component<MiteruTweetInfo, {}> {
+    private tweet_element: HTMLElement;
+    componentDidMount() {
+        this.loadWidget();
+    }
 
-const MiteruTweet: React.SFC<MiteruTweetInfo> = (props: MiteruTweetInfo) => {
-    return (
-        <div>
-            <a href={props.url}>
-                {(() => {
-                    if (props.title) {
-                        return <h3>{props.title}</h3>;
-                    } else {
-                        return <h3>{props.url}</h3>;
-                    }
-                })()}
-            </a>
-            <div dangerouslySetInnerHTML={{ __html: embedded_tweet_html(props.tweet_url) }} />
-        </div>
-    );
-};
+    componentDidUpdate() {
+        this.loadWidget();
+    }
 
-export default MiteruTweet;
+    loadWidget() {
+        $script.ready("twitter-widgets", () => {
+            const tweet_id = this.props.tweet_url.replace("https://twitter.com/sh4869sh/status/", "").replace("https://twitter.com/statues/", "");
+            window.twttr.widgets.createTweet(tweet_id, this.tweet_element).then(() => {
+            });
+        });
+    }
+    render() {
+        return (
+            <div>
+                <a href={this.props.url}>
+                    {(() => {
+                        if (this.props.title) {
+                            return <h3>{this.props.title}</h3>;
+                        } else {
+                            return <h3>{this.props.url}</h3>;
+                        }
+                    })()}
+                </a>
+                <div ref={(x) => this.tweet_element = x} />
+            </div>
+        );
+    }
+};
