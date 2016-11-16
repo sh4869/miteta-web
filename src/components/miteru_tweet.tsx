@@ -28,7 +28,10 @@ export default class MiteruTweet extends React.Component<MiteruTweetInfo, {}> {
             "padding": "3px",
             "paddingLeft": "3em",
             "position": "relative",
-            "textAlign": "center"
+            "textAlign": "center",
+            tweet: {
+                "margin": "0 auto"
+            }
         }
     }
     constructor() {
@@ -48,7 +51,7 @@ export default class MiteruTweet extends React.Component<MiteruTweetInfo, {}> {
             $script.ready("twitter-widgets", () => {
                 this.rendered = true;
                 const tweet_id = this.tweet_url.replace("https://twitter.com/sh4869sh/status/", "").replace("https://twitter.com/statues/", "");
-                window.twttr.widgets.createTweet(tweet_id, this.tweet_element).then(() => {
+                window.twttr.widgets.createTweet(tweet_id, this.tweet_element, { align: "center" }).then(() => {
                 });
             });
         }
@@ -64,7 +67,7 @@ export default class MiteruTweet extends React.Component<MiteruTweetInfo, {}> {
             this.title = this.props.params.title ? decodeURI(this.props.params.title) : "";
         }
         return (
-            <div className={"mw5 mw7-ns center pa3 ph5-ns"}>
+            <div className={"w-70-l w-90-ns center pa3"}>
                 <a href={this.url} style={this.style.title}>
                     {(() => {
                         if (this.title) {
@@ -84,7 +87,7 @@ export default class MiteruTweet extends React.Component<MiteruTweetInfo, {}> {
                 </a>
                 <Link to={"/tweet/" + encodeURIComponent(this.tweet_url) + "/" + encodeURIComponent(this.url) + "/" + encodeURIComponent(this.title)}>
                     <div style={this.style.container}>
-                        <div ref={(x) => this.tweet_element = x} style={this.style.container}/>
+                        <div ref={(x) => this.tweet_element = x} style={this.style.container.tweet} />
                     </div>
                 </Link>
             </div>
