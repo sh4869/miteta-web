@@ -2,8 +2,10 @@ require 'open-uri'
 require 'csv'
 require 'json'
 
+csv_data = CSV.read('tweets.csv',encoding:"UTF-8:UTF-8")
+
 miteru_datas = []
-CSV.foreach("tweets.csv",encoding:"UTF-8:UTF-8") do |tweet|
+csv_data.each do |tweet|
   text = tweet[5]
   if !text.to_s.start_with?("RT") && text.to_s.include?("#miteru")
     page_url = tweet[9].split(",").last
@@ -25,5 +27,5 @@ end
 
 puts miteru_datas.to_json
 open("miteru_tweet.json","w") do |io|
-  JSON.dump(miteru_datas.to_json,io)
+  JSON.dump(miteru_datas,io)
 end
