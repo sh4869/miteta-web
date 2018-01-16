@@ -40,7 +40,8 @@ class MiteruTweetChecker
           end
         end
       end
-    rescue
+    rescue => error
+      puts error
     end
     # 重複を削除
     miteru_tweet_data.uniq!{|data| data["tweet_url"]}
@@ -48,6 +49,7 @@ class MiteruTweetChecker
       file = File.open("miteru_tweet.json","w")
       file.write(JSON.pretty_generate(miteru_tweet_data) + "\n")
       file.close
+      puts "File Updated"
       return true
     else
       return false

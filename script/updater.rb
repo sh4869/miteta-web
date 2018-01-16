@@ -9,5 +9,6 @@ Forever.run do
     if increments_tweet
       GitUpdater.update_repository
     end
+    puts "Finish"
   end
 end
