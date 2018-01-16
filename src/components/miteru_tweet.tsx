@@ -20,7 +20,7 @@ export default class MiteruTweet extends React.Component<MiteruTweetInfo, {}> {
     private url: string;
     private title: string;
     private rendered: boolean;
-    private style = {
+    private style: React.CSSProperties = {
         title: {
             textDecoration: "none"
         },

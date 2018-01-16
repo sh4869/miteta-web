@@ -5,7 +5,7 @@ interface HomeProps {
     children: React.ReactNode;
 }
 
-const homestyle = {
+const homestyle: React.CSSProperties = {
     title: {
         textAlign: "center",
         link: {
