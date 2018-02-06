@@ -1,5 +1,10 @@
 [
   {
+    "url": "https://pplog.net/",
+    "title": "pplog - ゆるふわインターネットにポエムを刻もう",
+    "tweet_url": "https://twitter.com/sh4869sh/status/960758519996674048"
+  },
+  {
     "url": "https://nymphium.github.io/2018/01/31/%E3%82%B3%E3%83%B3%E3%83%91%E3%82%A4%E3%83%A9%E4%B8%AD%E9%96%93%E8%A8%80%E8%AA%9E%E3%81%8A%E3%82%88%E3%81%B3%E3%81%9D%E3%81%AE%E6%9C%80%E9%81%A9%E5%8C%96%E3%81%AE%E5%AE%9F%E8%A3%85.html",
     "title": "コンパイラ中間言語およびその最適化の設計と実装 &#47; lilyum ensemble",
     "tweet_url": "https://twitter.com/sh4869sh/status/959721261801730048"
