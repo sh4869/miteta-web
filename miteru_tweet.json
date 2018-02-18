@@ -1,5 +1,10 @@
 [
   {
+    "url": "https://docs.gitlab.com/omnibus/settings/nginx.html",
+    "title": "NGINX settings - GitLab Documentation",
+    "tweet_url": "https://twitter.com/sh4869sh/status/965129264994529281"
+  },
+  {
     "url": "https://github.com/ozmartian/vidcutter",
     "title": "GitHub - ozmartian/vidcutter: BUGFIX#1 being released... see Releases for details.... v5.5.0 released w/ media stream selection + much much more... see releases page for the scoop...",
     "tweet_url": "https://twitter.com/sh4869sh/status/963442359437373440"
