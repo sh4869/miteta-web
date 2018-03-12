@@ -1,5 +1,15 @@
 [
   {
+    "url": "https://www.iar.com/globalassets/pdf/st-kits-kk/6_iceconnector_guide_for_debugging_stm32_201504.pdf",
+    "title": "",
+    "tweet_url": "https://twitter.com/sh4869sh/status/973045011964051456"
+  },
+  {
+    "url": "https://www.segger.com/products/debug-probes/j-link/accessories/adapters/6-pin-needle-adapter/",
+    "title": "6-Pin Needle Adapter | SEGGER - The Embedded Experts",
+    "tweet_url": "https://twitter.com/sh4869sh/status/973044703363919872"
+  },
+  {
     "url": "https://www.segger.com/products/debug-probes/j-link/technology/interface-description/",
     "title": "Interface Description | SEGGER - The Embedded Experts",
     "tweet_url": "https://twitter.com/sh4869sh/status/973044588486144001"
