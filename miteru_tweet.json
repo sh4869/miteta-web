@@ -1,5 +1,10 @@
 [
   {
+    "url": "https://github.com/golang/go/issues/11862",
+    "title": "path/filepath: Glob should support `**` for zero or more directories · Issue #11862 · golang/go · GitHub",
+    "tweet_url": "https://twitter.com/sh4869sh/status/982545206930112512"
+  },
+  {
     "url": "https://blogs.adobe.com/creativestation/web-xd-essentials-radio-buttons-and-checkboxes",
     "title": "フォームデザインをレベルアップ！正しいラジオボタンとチェックボックスの使い方 | アドビUX道場 #UXDojo &#8211; Adobe Creative Station",
     "tweet_url": "https://twitter.com/sh4869sh/status/981877762435657728"
