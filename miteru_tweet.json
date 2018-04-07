@@ -1,5 +1,10 @@
 [
   {
+    "url": "https://github.com/desbma/sacad",
+    "title": "GitHub - desbma/sacad: Smart Automatic Cover Art Downloader",
+    "tweet_url": "https://twitter.com/sh4869sh/status/982555423139028992"
+  },
+  {
     "url": "https://github.com/golang/go/issues/11862",
     "title": "path/filepath: Glob should support `**` for zero or more directories · Issue #11862 · golang/go · GitHub",
     "tweet_url": "https://twitter.com/sh4869sh/status/982545206930112512"
