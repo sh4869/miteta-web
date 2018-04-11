@@ -1,5 +1,10 @@
 [
   {
+    "url": "https://github.com/google/built_value.dart",
+    "title": "GitHub - google/built_value.dart: Immutable value types, enum classes, and serialization.",
+    "tweet_url": "https://twitter.com/sh4869sh/status/983959120284811265"
+  },
+  {
     "url": "https://github.com/mholt/json-to-go",
     "title": "GitHub - mholt/json-to-go: Translates JSON into a Go type in your browser instantly (original)",
     "tweet_url": "https://twitter.com/sh4869sh/status/983520323432628224"
