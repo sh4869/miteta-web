@@ -1,5 +1,10 @@
 [
   {
+    "url": "https://groups.google.com/forum/#!topic/flutter-dev/H8dDhWg_c8I",
+    "title": "Google グループ",
+    "tweet_url": "https://twitter.com/sh4869sh/status/984063642562838528"
+  },
+  {
     "url": "https://github.com/google/built_value.dart",
     "title": "GitHub - google/built_value.dart: Immutable value types, enum classes, and serialization.",
     "tweet_url": "https://twitter.com/sh4869sh/status/983959120284811265"
